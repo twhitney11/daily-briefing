@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-19",
+  "timezone": "America/New_York",
+  "intro": "Who gets access to the next frontier? Today: a college application barrier comes down, an AI company proposes sharing more of its upside, a mission prepares to bring a Martian moon home, portable computing grows more ambitious, and the global recovery remains uneven.",
+  "hero": {
+    "path": "assets/2026-10-19/hero.webp",
+    "width": 1536,
+    "height": 1024,
+    "alt": "Editorial illustration connecting an open college gate, a circuit tree with coins, a tablet, a Mars mission, and global trade.",
+    "credit": "AI-generated editorial illustration · The Daily Curiosity. Imagined scenes, not photographs or technical diagrams.",
+    "rights": "Original conceptual artwork generated with the native image_gen tool for this edition; no third-party image copied."
+  },
+  "stories": [
+    {
+      "category": "Higher education · New York",
+      "headline": "SUNY’s free-application window opens today",
+      "news_date": "2026-10-13",
+      "sentences": [
+        "SUNY’s application-fee waiver period runs October 19–November 2 as part of New York’s College Application Initiative for high school seniors, according to the state’s October 13 announcement.",
+        "More than 700 participating high schools are pairing the initiative with counselor support and dedicated application time, addressing paperwork as well as price.",
+        "That combination matters because an affordable degree is still out of reach if a student never gets through the application process; students should check the linked program guidance for their college’s eligibility and dates."
+      ],
+      "sources": [
+        {
+          "label": "SUNY · Official announcement and waiver dates",
+          "url": "https://www.suny.edu/suny-news/press-releases/10-26/10-13-26-2/free-apps.html"
+        }
+      ],
+      "image": {
+        "path": "assets/2026-10-19/story-illustrations.webp",
+        "width": 1983,
+        "height": 793,
+        "panel": 0,
+        "alt": "An imagined college gateway with books and autumn leaves.",
+        "credit": "AI-generated illustration · Imagined campus, not a specific SUNY location.",
+        "rights": "Original conceptual artwork generated with the native image_gen tool for this edition; no third-party image copied."
+      }
+    },
+    {
+      "category": "Artificial intelligence · Public benefit",
+      "headline": "Anthropic proposes tying public-benefit funding to its own growth",
+      "news_date": "2026-10-18",
+      "sentences": [
+        "Anthropic announced a proposed commitment of 5% of its shares to a new Public Benefit Fund on October 18, subject to stockholder approval.",
+        "The company says its board could add another 2% for each 50% increase in valuation above a baseline, using a wholly owned LLC rather than a conventional charitable foundation.",
+        "The interesting test is whether an expanding equity stake becomes measurable public benefit: Anthropic says governance and valuation-milestone details are still to come, so the announcement is a proposed mechanism rather than evidence of delivered outcomes."
+      ],
+      "sources": [
+        {
+          "label": "Anthropic · Fund proposal",
+          "url": "https://www.anthropic.com/news/public-benefit-fund"
+        }
+      ],
+      "image": {
+        "path": "assets/2026-10-19/story-illustrations.webp",
+        "width": 1983,
+        "height": 793,
+        "panel": 1,
+        "alt": "A conceptual circuit tree bearing golden coins.",
+        "credit": "AI-generated illustration · Conceptual artwork, not a company graphic.",
+        "rights": "Original conceptual artwork generated with the native image_gen tool for this edition; no third-party image copied."
+      }
+    },
+    {
+      "category": "Space · Origins",
+      "headline": "A little Martian moon could hold a big piece of the solar system’s history",
+      "news_date": "2026-10-15",
+      "sentences": [
+        "NASA says Japan’s Martian Moons eXploration mission is targeting launch at 3:41 p.m. Eastern on October 19, with plans to collect material from Phobos and return it to Earth in 2031.",
+        "The samples could help distinguish two competing explanations for Mars’s moons: captured asteroids or debris from a giant impact on Mars.",
+        "That makes this more than a collection trip—it could clarify how material moved around the young inner solar system; NASA’s contributions include an instrument to measure surface composition and a gas-driven sampler."
+      ],
+      "sources": [
+        {
+          "label": "NASA · Mission plan and launch target",
+          "url": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/"
+        }
+      ],
+      "image": {
+        "path": "assets/2026-10-19/story-illustrations.webp",
+        "width": 1983,
+        "height": 793,
+        "panel": 2,
+        "alt": "An imagined spacecraft beside Mars and a small irregular moon.",
+        "credit": "AI-generated illustration · Conceptual artwork, not an accurate MMX diagram.",
+        "rights": "Original conceptual artwork generated with the native image_gen tool for this edition; no third-party image copied."
+      }
+    },
+    {
+      "category": "Gadgets · Local computing",
+      "headline": "A 192GB gaming tablet blurs the line between handheld and AI workstation",
+      "news_date": "2026-10-13",
+      "sentences": [
+        "OneXPlayer’s Super X Pro, covered by T3 on October 13, now appears in the manufacturer’s Super X lineup with configurations up to 192GB of memory and 4TB of storage.",
+        "The manufacturer positions the family as a way to run AI workloads locally, while T3 describes an optional external liquid-cooling system alongside the tablet’s gaming ambitions.",
+        "The broader question is how much computing can move out of the cloud and onto a personal device—but memory capacity alone does not establish model speed, battery endurance, or everyday practicality, which require independent testing."
+      ],
+      "sources": [
+        {
+          "label": "OneXPlayer · Specifications",
+          "url": "https://onexplayerstore.com/products/onexplayer-super-x"
+        },
+        {
+          "label": "T3 · Announcement coverage",
+          "url": "https://www.t3.com/tech/tablets/this-could-be-the-most-powerful-gaming-tablet-ever-created-and-its-coming-soon"
+        }
+      ],
+      "image": {
+        "path": "assets/2026-10-19/story-illustrations.webp",
+        "width": 1983,
+        "height": 793,
+        "panel": 3,
+        "alt": "A generic tablet with stylized cooling coils.",
+        "credit": "AI-generated illustration · Generic device, not a product photograph.",
+        "rights": "Original conceptual artwork generated with the native image_gen tool for this edition; no third-party image copied."
+      }
+    },
+    {
+      "category": "World · Economics",
+      "headline": "The IMF’s new outlook shows why a resilient world economy can still feel fragile",
+      "news_date": "2026-10-13",
+      "sentences": [
+        "The IMF’s October World Economic Outlook projects global growth of 3.1% in 2026 and 3.4% in 2027, alongside headline inflation of 4.7% and 4.1%, respectively.",
+        "Its October 13 briefing highlights an uneven picture, with energy-importing economies outside the technology value chain facing particularly difficult conditions.",
+        "The report helps explain why strong technology investment need not translate into broad relief for household budgets: conflict, trade friction and fiscal pressures remain risks, and these are forecasts based on information available through October 1, not guaranteed outcomes."
+      ],
+      "sources": [
+        {
+          "label": "IMF · October 2026 World Economic Outlook",
+          "url": "https://www.imf.org/en/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026"
+        }
+      ],
+      "image": {
+        "path": "assets/2026-10-19/story-illustrations.webp",
+        "width": 1983,
+        "height": 793,
+        "panel": 4,
+        "alt": "An illustrated globe above merchant ships and balance weights.",
+        "credit": "AI-generated illustration · Conceptual artwork, not a data visualization.",
+        "rights": "Original conceptual artwork generated with the native image_gen tool for this edition; no third-party image copied."
+      }
+    }
+  ]
+}

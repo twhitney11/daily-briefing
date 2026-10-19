@@ -1,0 +1,32 @@
+[
+  {
+    "path": "assets/2026-10-19/hero.webp",
+    "generator": "native image_gen.imagegen",
+    "generated_on": "2026-10-19",
+    "original_sha256": "3c9959e557cc4692bdcf0e1cb14f3ab6ef947f3ccb8922937be004b2f7c87b64",
+    "sha256": "0068a7ca74df051516bcdc392ecf7c4d1516b691790e421e5e6082ac967cb20f",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "bytes": 445232,
+    "treatment": "WebP quality 82; original retained, no pixel cropping; story panels displayed using CSS",
+    "credit": "AI-generated editorial illustration \u00b7 The Daily Curiosity",
+    "rights": "Original generated conceptual illustration; no third-party image input."
+  },
+  {
+    "path": "assets/2026-10-19/story-illustrations.webp",
+    "generator": "native image_gen.imagegen",
+    "generated_on": "2026-10-19",
+    "original_sha256": "7de81909b0c90f8861c81c7ed4bd98b51dafb29ec11b4ca9750ae6113064b799",
+    "sha256": "5f690e2b35e24c7e0ba8d054524b6608a98971696f2805965784bc590122a03e",
+    "dimensions": [
+      1983,
+      793
+    ],
+    "bytes": 380212,
+    "treatment": "WebP quality 82; original retained, no pixel cropping; story panels displayed using CSS",
+    "credit": "AI-generated editorial illustration \u00b7 The Daily Curiosity",
+    "rights": "Original generated conceptual illustration; no third-party image input."
+  }
+]
