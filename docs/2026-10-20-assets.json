@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-20",
+  "generator": "native image_gen.imagegen",
+  "original": "/workspace/generated_images/call_bef99be977224514b044405c7f006627.png",
+  "original_sha256": "002c6656e7735fa33f6c7d55c97f7223218f0cf6fec2cf0967dff3a0faab5f66",
+  "assets": [
+    {
+      "path": "assets/2026-10-20/hero.webp",
+      "sha256": "8e0fc8379fac7c52b57dfb9274062ddf8489c41c374e9c927a9de100c6e70d5e",
+      "bytes": 406512,
+      "width": 1536,
+      "height": 1024,
+      "alterations": "Resized/encoded to WebP using repository optimize_image.py; original retained."
+    }
+  ],
+  "story_images": "Omitted: reuse permission was not established for article imagery. No third-party assets downloaded or embedded."
+}

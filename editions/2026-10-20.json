@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-20",
+  "timezone": "America/New_York",
+  "intro": "What keeps a system working? Today’s five stories connect college completion, AI provenance, enterprise data permissions, Pacific voyaging and repairable wearables—small mechanisms with consequences much larger than themselves.",
+  "hero": {
+    "path": "assets/2026-10-20/hero.webp",
+    "width": 1536,
+    "height": 1024,
+    "alt": "Conceptual collage of book steps, a magnifying glass and shield, ocean islands and a DNA spiral, and an opened generic wristwatch.",
+    "credit": "AI-generated editorial illustration · The Daily Curiosity. Imagined scenes, not photographs, a geographic map or technical diagrams.",
+    "rights": "Original conceptual artwork generated with the native image_gen tool for this edition; no third-party image copied."
+  },
+  "stories": [
+    {
+      "category": "Higher education · North Country",
+      "headline": "At SUNY Canton, the graduation strategy includes money for everyday needs",
+      "news_date": "2026-10-20",
+      "sentences": [
+        "SUNY Canton reported October 20 that its ASAP|ACE support program has grown from an initial 150 students to 320, with approximately $400,000 in direct student aid expected this year.",
+        "Participants receive dedicated advising, textbook help, a monthly stipend and additional assistance after financial aid, combining academic guidance with support for the costs that can derail a degree.",
+        "The interesting question is whether that package keeps more students on course to graduate: the announcement documents expanded support, but does not provide a new Canton-specific causal evaluation of graduation outcomes."
+      ],
+      "sources": [
+        {
+          "label": "SUNY Canton · Program expansion and support",
+          "url": "https://www.canton.edu/news/2026/asap-ace.php"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Artificial intelligence · Media literacy",
+      "headline": "An AI watermark checker is useful—but silence is not proof of authenticity",
+      "news_date": "2026-10-07",
+      "sentences": [
+        "Google opened its SynthID Detector globally in English on October 7, letting the public inspect images, video and audio for invisible watermarks from supported AI tools.",
+        "The company lists Google, OpenAI, NVIDIA and Kakao among supported providers, with Apple support described as forthcoming.",
+        "The distinction matters for anyone checking a suspicious clip: detecting a supported watermark provides evidence about its origin, while failing to find one cannot establish that the content is authentic or untouched by AI."
+      ],
+      "sources": [
+        {
+          "label": "Google DeepMind · Public detector announcement",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Cybersecurity · Enterprise IT",
+      "headline": "Proofpoint’s Varonis deal puts AI’s data permissions at the center of security",
+      "news_date": "2026-10-15",
+      "sentences": [
+        "Proofpoint has agreed to acquire Varonis in a transaction valued at approximately $6.3 billion, with closing expected in the first half of 2027 subject to required approvals and customary conditions.",
+        "The proposed combination would connect visibility into sensitive data and access permissions with monitoring of how people and AI agents actually use that data.",
+        "For enterprise IT, the underlying issue is bigger than vendor consolidation: an agent can act within granted permissions and still expose information, so access controls and behavior need to be considered together.",
+        "The companies say they will operate independently until closing; the promised integration is a plan, not a capability customers should assume already exists."
+      ],
+      "sources": [
+        {
+          "label": "Proofpoint · Transaction and customer FAQ",
+          "url": "https://www.proofpoint.com/us/proofpoint-signs-definitive-agreement-to-acquire-varonis"
+        },
+        {
+          "label": "Proofpoint · October 15 strategic announcement",
+          "url": "https://www.proofpoint.com/us/blog/corporate-news/securing-ai-future-starts-protecting-enterprise-data"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Science · Human history",
+      "headline": "Pacific voyaging left a map in human genomes",
+      "news_date": "2026-10-08",
+      "sentences": [
+        "A study highlighted by UC San Diego on October 8 analyzed whole-genome sequences from 1,050 people across Polynesia and found a striking connection between Hawaiʻi and Rapa Nui, roughly 7,000 kilometers apart.",
+        "Among the remote island populations studied, they were the closest genetic relatives, supporting a history of exceptional long-distance voyaging with deeper ancestral roots in Mangareva.",
+        "The same successive settlements also concentrated some genetic variants, showing why enormous global databases can miss variation important to smaller island communities.",
+        "This is evidence about population history and a direction for future research, not a new clinical screening guideline or a simple claim that one voyage explains Polynesian settlement."
+      ],
+      "sources": [
+        {
+          "label": "UC San Diego · Study and its limitations",
+          "url": "https://today.ucsd.edu/story/polynesian-wayfinding-is-written-in-the-genomes-of-island-populations"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Gadgets · Repairability",
+      "headline": "The most useful wearable upgrade might be a replaceable battery",
+      "news_date": "2026-10-15",
+      "sentences": [
+        "In its October 15 repairability update, Google described the new Fitbit Edge as its first repairable fitness tracker, with modular internals and a replaceable battery.",
+        "The company also outlined modular construction in the Pixel Watch 4 and 5, alongside repair support and an expanded refurbished-phone program.",
+        "The larger shift is from treating a depleted battery as the end of a device to treating it as a serviceable part—but practical longevity still depends on parts availability, repair costs and ongoing software support."
+      ],
+      "sources": [
+        {
+          "label": "Google · Repair, modular design and reuse",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/international-repair-day-2026/"
+        }
+      ],
+      "image": null
+    }
+  ]
+}
