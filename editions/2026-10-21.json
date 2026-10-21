@@ -1,0 +1,112 @@
+{
+  "date": "2026-10-21",
+  "timezone": "America/New_York",
+  "intro": "The systems beneath the surface: a bicycle teaches engineering, an AI conversation needs a record, a website depends on its runtime, a train encounters the Sun, and a regulated market changes its bookkeeping. Five stories about connections that are easy to miss.",
+  "hero": {
+    "path": "assets/2026-10-21/hero.webp",
+    "width": 1536,
+    "height": 1024,
+    "alt": "Conceptual collage of a bicycle wheel becoming a network, a medical conversation and paper record, a shielded server, a train beneath aurora-like ribbons, and leaves on a ledger.",
+    "credit": "AI-generated editorial illustration · The Daily Curiosity. Imagined scenes, not documentary photographs or technical diagrams.",
+    "rights": "Original conceptual artwork generated with the native image_gen tool for this edition; no third-party image copied."
+  },
+  "stories": [
+    {
+      "category": "Higher education · SUNY",
+      "headline": "A bicycle becomes a rolling STEM laboratory",
+      "news_date": "2026-10-13",
+      "sentences": [
+        "SUNY Geneseo announced a $96,000 National Science Foundation grant for Jennifer Tripp’s part in STEMCyclists, a collaboration with University at Buffalo researchers and community cycling groups.",
+        "Nearly 100 Buffalo-area teens are expected to participate over three years, building and customizing bicycles while exploring physics, biomechanics and engineering through a summer program and follow-up rides.",
+        "The research opportunity is as interesting as the workshop: the team will study what young people learn when scientific ideas become machines they can change and ride."
+      ],
+      "sources": [
+        {
+          "label": "SUNY Geneseo · Grant and program design",
+          "url": "https://www.geneseo.edu/news/education-professor-awarded-grant-to-advance-stem-learning-through-bike-engineering-and-design/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Artificial intelligence · Accountability",
+      "headline": "Bad chatbot advice can disappear from the medical record",
+      "news_date": "2026-10-12",
+      "sentences": [
+        "A perspective paper highlighted by Binghamton University argues that harmful AI health advice can remain hidden from the clinicians and researchers who might otherwise investigate it.",
+        "The authors call for users to be able to retrieve and share their conversations, alongside systems for reporting and investigating problematic guidance.",
+        "This is a proposal for better oversight, not a measurement of how often chatbots harm patients; its central insight is that evaluating an answer is only part of safety if nobody can reconstruct what happened afterward."
+      ],
+      "sources": [
+        {
+          "label": "Binghamton University · Perspective and proposed safeguards",
+          "url": "https://www.binghamton.edu/news/story/6530/ai-health-chatbots"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Cybersecurity · Enterprise IT",
+      "headline": "PHP’s emergency fixes reach below the application layer",
+      "news_date": "2026-10-21",
+      "sentences": [
+        "PHP released versions 8.5.12, 8.4.27, 8.3.36 and 8.2.35 on October 21 to fix two critical vulnerabilities that can permit unauthenticated remote code execution.",
+        "The PHP Foundation says an exploit against Apache with mod_php can strike before application code runs, illustrating why keeping a website’s plugins current does not necessarily protect the runtime underneath them.",
+        "The project urges immediate updates and says partial mitigations do not make installations safe; administrators should check their operating-system or hosting vendor’s patched packages as well as the PHP version."
+      ],
+      "sources": [
+        {
+          "label": "PHP · Official security advisory and releases",
+          "url": "https://www.php.net/archive/2026.php"
+        },
+        {
+          "label": "PHP Foundation · What failed and how it was fixed",
+          "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Science · Space weather",
+      "headline": "A 16-minute train delay exposes a seven-year error in space-weather history",
+      "news_date": "2026-10-21",
+      "sentences": [
+        "Research revisited in an October 21 ScienceDaily report traces a famous Exeter train delay to a likely date of October 18, 1848, rather than 1841: the railway in the original account had not yet opened in 1841.",
+        "The study, published in September, combines timetables, newspapers and magnetic observations to explain how a solar disturbance could have disrupted telegraph signals and held the train for 16 minutes.",
+        "The correction removes the incident’s claim to be the earliest recorded technological space-weather disruption, while showing why old archives still matter to understanding a hazard faced by modern electrical infrastructure."
+      ],
+      "sources": [
+        {
+          "label": "Space Weather · Original research",
+          "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026SW005239"
+        },
+        {
+          "label": "Baylor University · Historical evidence",
+          "url": "https://news.web.baylor.edu/news/story/2026/train-solar-storm-and-185-year-old-mystery-2"
+        },
+        {
+          "label": "ScienceDaily / RMIT · October 21 coverage",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261020085021.htm"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "New York · Cannabis industry",
+      "headline": "New York’s cannabis payment records face a quiet cutoff tomorrow",
+      "news_date": "2026-10-01",
+      "sentences": [
+        "New York’s Office of Cannabis Management says October 22 is the deadline to report delinquent payments for credit transfers made before September 15 through its older COD Reporting platform.",
+        "Its October 1 board presentation says that delinquency-reporting function will close October 23, while reports of full payment for those older transfers will remain available; transfers or deliveries from September 15 onward use Metrc.",
+        "The distinction matters because a growing regulated market depends on reliable supplier-payment records: the cutoff concerns where and when older delinquencies can be reported, rather than announcing that those debts disappear."
+      ],
+      "sources": [
+        {
+          "label": "New York OCM · October 1 presentation, slide 23",
+          "url": "https://cannabis.ny.gov/ccb-meeting-presentation-10-1-26"
+        }
+      ],
+      "image": null
+    }
+  ]
+}

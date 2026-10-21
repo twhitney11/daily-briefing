@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-21",
+  "generator": "native image_gen.imagegen",
+  "original": "/workspace/generated_images/exec-7c41fe3b-0a35-4d5b-9b5f-91fba4cb2c61.png",
+  "original_sha256": "2ae6cd91d3b5cd0a7fa23d65d92747798b57d3ae243bbe139dd0f762fd9b5d88",
+  "assets": [
+    {
+      "path": "assets/2026-10-21/hero.webp",
+      "sha256": "03c2455a8d053fd42ad9b21e26e6caaccb42a74d3f9a5ce3bf67e604561bbb26",
+      "bytes": 369618,
+      "width": 1536,
+      "height": 1024,
+      "alterations": "Encoded to WebP with repository optimize_image.py; original retained."
+    }
+  ],
+  "story_images": "Omitted: reusable rights not established for article imagery. No third-party images downloaded or embedded."
+}
