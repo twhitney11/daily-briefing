@@ -1,0 +1,117 @@
+{
+  "date": "2026-10-23",
+  "timezone": "America/New_York",
+  "intro": "Opening doors takes more than a breakthrough: it takes trained people, tools that travel, secure networks and careful preparation. Today’s five stories follow those connections from SUNY classrooms and frontline clinics to a space telescope and the North Country’s polling places.",
+  "hero": {
+    "path": "assets/2026-10-23/hero.webp",
+    "width": 1536,
+    "height": 1024,
+    "alt": "Conceptual autumn collage linking an open campus doorway and counseling chairs, an ultrasound screen, wireless network nodes, a lens filled with stars, and a rural road to a civic hall and ballot box.",
+    "credit": "AI-generated editorial illustration · The Daily Curiosity. Imagined scenes, not documentary photographs or technical diagrams.",
+    "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied."
+  },
+  "stories": [
+    {
+      "category": "Higher education · SUNY",
+      "headline": "The path to mental-health care starts with supporting future practitioners",
+      "news_date": "2026-10-21",
+      "sentences": [
+        "SUNY has recognized five Scholars for Mental Health, each receiving $10,000 in Voya-funded support for expenses and fees while studying psychology, social work or psychiatric nursing.",
+        "The recipients include a social-work student at SUNY Plattsburgh, alongside students at Buffalo State and Stony Brook, with interests in culturally responsive care, trauma-informed practice and community support.",
+        "The awards address a practical part of expanding care: helping people complete the training to provide it, though five scholarships alone cannot establish a measurable change in access."
+      ],
+      "sources": [
+        {
+          "label": "SUNY · Scholars, funding and fields of study",
+          "url": "https://www.suny.edu/suny-news/press-releases/10-26/10-21-26/mental-health-scholars.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Artificial intelligence · Health research",
+      "headline": "An ultrasound AI passes a test far from its training clinics",
+      "news_date": "2026-10-21",
+      "sentences": [
+        "Google Research’s October 21 account of a prospective study describes AI that estimates gestational age from standardized ultrasound sweeps performed by operators without specialist sonography training.",
+        "In a primary evaluation of 385 participants in Chicago and Nairobi, the system’s average absolute error was about 4.2 days, meeting the study’s noninferiority criterion against expert-based clinical estimates; no Nairobi data was used for fine-tuning.",
+        "The promising point is portability across equipment and clinical settings, potentially widening access where specialists are scarce.",
+        "This was a study of pregnancy dating, not proof that the system replaces a full prenatal examination or improves birth outcomes."
+      ],
+      "sources": [
+        {
+          "label": "Google Research · October 21 research update",
+          "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/"
+        },
+        {
+          "label": "JAMA Network Open · Study methods and results",
+          "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2851451?resultClick=1"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Cybersecurity · Enterprise IT",
+      "headline": "The Wi-Fi behind everyday work needs its own patch window",
+      "news_date": "2026-10-23",
+      "sentences": [
+        "HPE has issued a broad security update for its AOS-8 and AOS-10 wireless networking software, with BleepingComputer reporting 72 vulnerabilities, including eight rated at maximum severity.",
+        "The affected infrastructure includes controllers, gateways and access points—the equipment that keeps workplaces and campuses connected, rather than just the laptops using the network.",
+        "HPE urges customers to patch and restrict management access; its advisory says it was unaware of public exploit code at release, so the severity ratings should not be mistaken for evidence of a confirmed attack."
+      ],
+      "sources": [
+        {
+          "label": "HPE · Security bulletin HPESBNW05162",
+          "url": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
+        },
+        {
+          "label": "BleepingComputer · October 23 reporting and scope",
+          "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Science · Space",
+      "headline": "Roman’s next challenge is telling cosmic change from camera quirks",
+      "news_date": "2026-10-22",
+      "sentences": [
+        "NASA says the Nancy Grace Roman Space Telescope has entered science commissioning after completing checks of the observatory and its primary instrument.",
+        "The team is now calibrating light response and image quality, including tests showing that the telescope can maintain its pointing in crowded or dusty star fields.",
+        "That quiet work is essential: small changes caused by the instrument could otherwise masquerade as changes in the universe, undermining the sweeping surveys Roman is being prepared to conduct."
+      ],
+      "sources": [
+        {
+          "label": "NASA · Commissioning milestone and calibration work",
+          "url": "https://science.nasa.gov/blogs/roman/2026/10/22/nasas-roman-space-telescope-enters-final-commissioning-phase/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "North Country · Civic life",
+      "headline": "Early voting adds days—but often means a different drive",
+      "news_date": "2026-10-23",
+      "sentences": [
+        "New York’s early-voting period begins tomorrow, October 24, and runs through November 1; North Country Public Radio reports that most counties in the region have only one early-voting location.",
+        "Clinton County’s site is the Government Center in Plattsburgh, while Franklin County’s is the county courthouse in Malone, making the location and its daily hours important parts of a voting plan.",
+        "The state also says registration applications must be received by October 24 for the November 3 general election, so the opening of early voting coincides with a separate deadline."
+      ],
+      "sources": [
+        {
+          "label": "NCPR · County polling locations and local context",
+          "url": "https://www.northcountrypublicradio.org/news/story/54122/20261023/plan-to-vote-early-this-election-here-are-the-polling-places-in-the-north-country"
+        },
+        {
+          "label": "NYS Board of Elections · Registration deadlines",
+          "url": "https://elections.ny.gov/registration-and-voting-deadlines"
+        },
+        {
+          "label": "NYS Board of Elections · Official early-voting dates",
+          "url": "https://elections.ny.gov/new-york-state-board-elections-celebrates-national-voter-registration-day-2026"
+        }
+      ],
+      "image": null
+    }
+  ]
+}
