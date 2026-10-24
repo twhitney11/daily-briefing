@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-24",
+  "timezone": "America/New_York",
+  "intro": "The most revealing part of a system is often the connection that is easy to overlook. Today: help completing a college-aid form, AI screening deep underground, the security of security software, a rehearsal for Titan, and the paperwork behind cannabis revenue.",
+  "hero": {
+    "path": "assets/2026-10-24/hero.webp",
+    "width": 1536,
+    "height": 1024,
+    "alt": "Conceptual collage of a college doorway and aid form, chest X-ray and underground lamp, shielded servers, an imagined rotorcraft over alien dunes, and a cannabis leaf beside a civic ledger.",
+    "credit": "AI-generated editorial illustration · The Daily Curiosity. Imagined scenes, not documentary photographs or an accurate spacecraft design.",
+    "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied."
+  },
+  "stories": [
+    {
+      "category": "Higher education · SUNY",
+      "headline": "The next college-access barrier is a form—and someone to help finish it",
+      "news_date": "2026-10-23",
+      "sentences": [
+        "SUNY announced that Rochester’s Educational Opportunity Center will offer individualized FAFSA assistance to students and families on October 27 and 30.",
+        "The system also lists upcoming online workshops, including a Spanish-language session on October 27, extending help beyond people who can reach Rochester.",
+        "The practical point is that available financial aid does not automatically become usable aid: completing the paperwork is another step between a college ambition and an affordable place to study."
+      ],
+      "sources": [
+        {
+          "label": "SUNY · FAFSA Days and online workshop dates",
+          "url": "https://www.suny.edu/suny-news/press-releases/10-26/10-23-26/reoc-fafsa.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Artificial intelligence · Global health",
+      "headline": "An AI screening tool goes where the internet cannot: four kilometers underground",
+      "news_date": "2026-10-23",
+      "sentences": [
+        "Google Research’s October 23 update describes Nexus AI deploying portable chest X-ray equipment and offline AI at South Africa’s Mponeng gold mine, four kilometers underground.",
+        "The system flags miners with presumptive tuberculosis for confirmatory molecular testing, bringing screening closer to workers exposed to silica dust and elevated lung-disease risk.",
+        "The interesting advance is the workflow: a useful model has to work where patients are, even without connectivity, and connect its findings to follow-up care.",
+        "These are deployment claims reported by Google, not evidence that an AI flag alone establishes a diagnosis or that this installation has reduced mortality."
+      ],
+      "sources": [
+        {
+          "label": "Google Research · Offline screening deployment and clinical workflow",
+          "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Cybersecurity · Enterprise IT",
+      "headline": "The system watching for intruders has a blind spot of its own",
+      "news_date": "2026-10-20",
+      "sentences": [
+        "Horizon3’s newly published analysis of CVE-2026-106173 shows how an unauthenticated service in FortiSIEM can allow file writes that lead to remote code execution.",
+        "The researchers also report that they found no application logs explicitly identifying exploitation, although unexpected modification times on existing scripts can offer clues.",
+        "For organizations relying on centralized security monitoring, the lesson reaches beyond patching: the monitoring platform itself needs restricted exposure and independent checks of its integrity.",
+        "The report demonstrates a proof of concept; it does not establish that a particular organization has been attacked."
+      ],
+      "sources": [
+        {
+          "label": "Horizon3 · October 20 research and detection limitations",
+          "url": "https://horizon3.ai/attack-research/cve-2026-106173-deep-dive-fortisiem-grpc-path-traversal-file-write-rce/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Science · Space",
+      "headline": "Dragonfly rehearses a landing it must eventually manage alone",
+      "news_date": "2026-10-23",
+      "sentences": [
+        "NASA says Dragonfly has completed its most comprehensive first-flight simulation yet on flight-like avionics at Johns Hopkins Applied Physics Laboratory, combining flight software with simulated camera, inertial and lidar inputs.",
+        "The test rehearsed finding a safe place to land on Titan, where the rotorcraft must operate without real-time help from Earth.",
+        "That makes millisecond-scale coordination between sensors and software a mission requirement, rather than a minor engineering detail.",
+        "This was a ground-based computer test, not a flight on Titan; launch is planned no earlier than 2028, with further tests on the actual flight system still ahead."
+      ],
+      "sources": [
+        {
+          "label": "NASA · First-flight simulation, hardware and next tests",
+          "url": "https://science.nasa.gov/blogs/dragonfly/2026/10/23/nasas-dragonfly-completes-first-simulated-flight/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "New York · Cannabis industry",
+      "headline": "Cannabis revenue arrives—but the records do not line up neatly",
+      "news_date": "2026-10-23",
+      "sentences": [
+        "A new Dutchess County comptroller report, covered by The Current on October 23, examines $1,565,037 in local cannabis tax receipts for sales from September 2023 through November 2025, including $1,173,778 allocated to municipalities.",
+        "The report identifies six instances in which unclear or late state guidance delayed municipal distributions, and says sales figures supplied by the Office of Cannabis Management differ from dispensaries’ tax-return information.",
+        "The discrepancy illustrates a less visible challenge of a growing legal market: local governments need consistent records and predictable transfers to turn sales into dependable public revenue.",
+        "The report attributes differences to filing errors and payment delays; a mismatch should not be read as proof of fraud."
+      ],
+      "sources": [
+        {
+          "label": "Dutchess County Comptroller · October special report (PDF)",
+          "url": "https://www.dutchessny.gov/Departments/Comptroller/Docs/Special-Report-on-Cannabis-Tax-Revenues-2026.pdf"
+        },
+        {
+          "label": "The Current · October 23 reporting",
+          "url": "https://highlandscurrent.org/2026/10/23/dutchess-comptroller-issues-cannabis-report/"
+        }
+      ],
+      "image": null
+    }
+  ]
+}

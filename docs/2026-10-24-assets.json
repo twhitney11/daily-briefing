@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-24",
+  "generator": "native image_gen.imagegen",
+  "original": "/workspace/generated_images/exec-97b574c4-da44-4749-aa03-3030bb5e6ce0.png",
+  "original_sha256": "1b945869bc85f9156a1ae928866d91d15f2dd50d204f70542da73df258e9a9d9",
+  "assets": [
+    {
+      "path": "assets/2026-10-24/hero.webp",
+      "sha256": "2ef41527930d8bfa2763ec84c2d6085ffc36405483fdd865be0af30417d6a7ce",
+      "bytes": 338110,
+      "width": 1536,
+      "height": 1024,
+      "alterations": "Encoded as WebP with scripts/optimize_image.py; original retained."
+    }
+  ],
+  "story_images": "Omitted without placeholders: no complete asset-specific reuse permission record established; no third-party images copied or hotlinked."
+}
