@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-25",
+  "generator": "native image_gen.imagegen",
+  "original": "/workspace/generated_images/exec-d8e04294-0096-47a6-97e7-39460479c465.png",
+  "original_sha256": "a72777c1861b5a4235019ba3fd42768de65a3504515614b6bdca0b90a4533806",
+  "assets": [
+    {
+      "path": "assets/2026-10-25/hero.webp",
+      "sha256": "4a028ccc6ef19841b2d0018229103bc060963877162182ae20806949afb297d8",
+      "bytes": 472306,
+      "width": 1536,
+      "height": 1024,
+      "alterations": "Encoded as WebP with scripts/optimize_image.py; original retained."
+    }
+  ],
+  "story_images": "Omitted without placeholders; see dated research note for rights/access review."
+}
