@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-26",
+  "generator": "native image_gen.imagegen",
+  "original": "/workspace/generated_images/exec-4c8d9509-82d8-4d56-81b3-07592d5f4536.png",
+  "original_sha256": "709d2aac69bff8051a45369a5fbdd2d91ce627ba75da9aa0bde417f1595bd0bc",
+  "assets": [
+    {
+      "path": "assets/2026-10-26/hero.webp",
+      "sha256": "5e3ab13d8eb45029e7c2dad0da00b7a981d81ff799d39ca7a2162eeec9453b7d",
+      "bytes": 339918,
+      "width": 1536,
+      "height": 1024,
+      "alterations": "Encoded as WebP with scripts/optimize_image.py; original retained.",
+      "credit": "AI-generated editorial illustration \u00b7 The Daily Curiosity. Imagined campus, devices and satellite, not documentary imagery or technical diagrams.",
+      "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied."
+    }
+  ],
+  "story_images": "Omitted without placeholders; see dated research note for rights/access review."
+}
