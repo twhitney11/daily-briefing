@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-27",
+  "generator": "native image_gen.imagegen",
+  "original_path": "/workspace/generated_images/exec-914c5144-a18f-4eff-95ac-6c7368550938.png",
+  "original_sha256": "068dcccf453b14f152153463b3a441b1506dcde783281b5280cd1f18d4fa4ded",
+  "asset": {
+    "path": "assets/2026-10-27/hero.webp",
+    "width": 1536,
+    "height": 1024,
+    "alt": "Conceptual open-book collage showing a nursing training mannequin, an AI pause switch, a balance with computer blocks and a ledger, a cosmic web cube, and bats resting in a cave amid autumn scenery.",
+    "credit": "AI-generated editorial illustration · The Daily Curiosity. Imagined scenes, not documentary imagery or a scientific visualization.",
+    "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied."
+  },
+  "bytes": 385132,
+  "sha256": "0672b1beb80d1610178a90ec8176be33ad7e04b23c31f52632f1e356dcb35c91",
+  "checked": "2026-10-27",
+  "story_images": "Omitted: no asset-specific reuse permission established. No unapproved hotlinks or placeholders."
+}
