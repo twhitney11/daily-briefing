@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-28",
+  "timezone": "America/New_York",
+  "intro": "The most consequential systems are often the ones we barely notice. Today: the buildings behind a college education, the human work of checking AI discoveries, the filing machinery behind political transparency, crystals that remember space radiation, and an ocean connection that may help explain ice ages.",
+  "hero": {
+    "path": "assets/2026-10-28/hero.webp",
+    "width": 1536,
+    "height": 1024,
+    "alt": "Conceptual collage of a college building with exposed pipes, a mathematical notebook and magnifying glass, a filing cabinet, a Moon and glowing crystal, and currents between polar ice sheets.",
+    "credit": "AI-generated editorial illustration · The Daily Curiosity. Imagined scenes; not an actual campus, scientific diagram or mission photograph.",
+    "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied."
+  },
+  "stories": [
+    {
+      "category": "Higher education · Infrastructure",
+      "headline": "A $4 billion repair backlog is part of the price of keeping college open",
+      "news_date": "2026-10-26",
+      "sentences": [
+        "Louisiana’s public colleges face more than $4 billion in deferred maintenance, according to a consultant presentation reported by Higher Ed Dive on October 26.",
+        "The state’s regents voted to request $702.1 million for more than 70 capital projects in fiscal 2028, while the analysis estimates that clearing the backlog and meeting new needs would require $777 million annually for a decade.",
+        "Those are funding requests and estimated needs, not money already delivered; the larger lesson is that educational capacity depends on maintaining existing buildings as well as opening new programs."
+      ],
+      "sources": [
+        {
+          "label": "Higher Ed Dive · Louisiana capital needs",
+          "url": "https://www.highereddive.com/news/louisianas-public-colleges-face-4b-deferred-maintenance-backlog/872812/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Artificial intelligence · Research",
+      "headline": "An AI proof still needs a community that can understand it",
+      "news_date": "2026-10-26",
+      "sentences": [
+        "OpenAI’s October 26 announcement of claimed results in mathematics, computer science and physics also introduces three different approaches to releasing and explaining AI-generated research.",
+        "The company is publishing the mathematics output directly, pairing public computer-science materials with an expert working group, and leaving the physics materials’ release to a separate collaboration.",
+        "The revealing question is how a machine-produced argument becomes shared scientific knowledge: researchers need access, time to check claims, and explanations they can build on.",
+        "The announcement itself acknowledges unequal early access as a tradeoff; these claims should not be read as this publication’s independent verification of the proofs."
+      ],
+      "sources": [
+        {
+          "label": "OpenAI · Release strategies and research claims",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Enterprise IT · Public transparency",
+      "headline": "An election filing outage shows why availability is a civic concern",
+      "news_date": "2026-10-27",
+      "sentences": [
+        "The Federal Election Commission’s incident log records an electronic-filing outage beginning October 26 and says a fix was being implemented at 8:17 p.m. Eastern on October 27; its homepage still displayed an offline notice when checked for this edition.",
+        "The affected services include online forms, electronic submissions and filing-vendor tools, the machinery that brings new campaign-finance reports into the public record.",
+        "With the election approaching, the disruption illustrates how a service outage can delay transparency even when the underlying task is administrative rather than casting ballots.",
+        "The official incident notice does not identify a cause or confirm restoration, so neither is assumed here."
+      ],
+      "sources": [
+        {
+          "label": "FEC · Dated incident updates",
+          "url": "https://fecgov.statuspage.io/incidents/1f16b9021jfx"
+        },
+        {
+          "label": "FEC · Current public notice",
+          "url": "https://www.fec.gov/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Science · Space instrumentation",
+      "headline": "Tiny crystals bring home a record of radiation near the Moon",
+      "news_date": "2026-10-22",
+      "sentences": [
+        "An October 22 report from Poland’s Institute of Nuclear Physics describes a new way to read fluorescent lithium-fluoride detectors flown around the Moon on the uncrewed Artemis I mission in 2022.",
+        "Radiation leaves microscopic tracks in the crystals that can be examined with a fluorescence microscope, avoiding the chemical etching used for conventional plastic track detectors.",
+        "After corrections, the researchers report agreement within 15 percent of conventional detectors over their overlapping measurement range, along with tracks below the older detectors’ threshold.",
+        "The advance is a method for extracting more useful exposure measurements from small passive sensors, not evidence that lunar radiation is harmless; the mission date and this month’s analysis are distinct."
+      ],
+      "sources": [
+        {
+          "label": "IFJ PAN · Detector method and measurement limits",
+          "url": "https://press.ifj.edu.pl/en/news/2026/10/22/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Climate science · Ocean systems",
+      "headline": "Northern ice may help the Southern Ocean lock away carbon",
+      "news_date": "2026-10-28",
+      "sentences": [
+        "An October 28 University of St Andrews research summary describes simulations in which cooling northern latitudes changes distant Southern Ocean circulation and increases ocean carbon storage.",
+        "In the model, cooling only the far north produced 74 percent as much carbon-dioxide drawdown as cooling the entire planet, suggesting a mechanism connecting northern ice sheets with Antarctic ocean changes.",
+        "That offers a testable link between two pieces of the ice-age puzzle and a reminder that the carbon cycle responds to connections across oceans.",
+        "The result comes from an idealized simulation reported in the Journal of Climate, rather than a direct measurement of ancient carbon removal or a forecast of today’s climate."
+      ],
+      "sources": [
+        {
+          "label": "University of St Andrews · Research release via ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261026225610.htm"
+        }
+      ],
+      "image": null
+    }
+  ]
+}

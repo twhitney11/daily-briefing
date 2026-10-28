@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-28",
+  "generator": "native image_gen.imagegen",
+  "original_path": "/workspace/generated_images/exec-8fefc14f-4e74-4b1f-9529-482eae9c0190.png",
+  "original_sha256": "0ef8318a56f483ab3a0f835e7e73aa5d53573d63e8fecbec5973c9662ffe3fb5",
+  "asset": {
+    "path": "assets/2026-10-28/hero.webp",
+    "width": 1536,
+    "height": 1024,
+    "alt": "Conceptual collage of a college building with exposed pipes, a mathematical notebook and magnifying glass, a filing cabinet, a Moon and glowing crystal, and currents between polar ice sheets.",
+    "credit": "AI-generated editorial illustration · The Daily Curiosity. Imagined scenes; not an actual campus, scientific diagram or mission photograph.",
+    "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied."
+  },
+  "bytes": 388418,
+  "sha256": "9be49a809e9d5ececf06ce7656b12f5fb38995c4f7811074c41abdb7d02159d7",
+  "checked": "2026-10-28",
+  "story_images": "Omitted. LSU photo reuse was verified under CC BY 3.0 but download returned HTTP 403; no retry or alternate acquisition. Other selected source images lacked established asset-specific permission."
+}
