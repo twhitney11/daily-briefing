@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-29",
+  "timezone": "America/New_York",
+  "intro": "What keeps a system healthy? Today’s answers range from a place to meet on campus to control over AI, electricity in orbit, a clearer view of coastal waters, and simpler protections for Adirondack trout. Five stories about the care behind things that matter.",
+  "hero": {
+    "path": "assets/2026-10-29/hero.webp",
+    "width": 1536,
+    "height": 1024,
+    "alt": "Conceptual collage of students at a campus table, a server cabinet, an astronaut and solar panel, an oyster, and a trout in mountain waters.",
+    "credit": "AI-generated editorial illustration · The Daily Curiosity. Imagined scenes, not an actual campus, mission photograph, map or species identification.",
+    "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied."
+  },
+  "stories": [
+    {
+      "category": "Higher education · SUNY",
+      "headline": "A place to belong can start with a table and a phone-free room",
+      "news_date": "2026-10-29",
+      "sentences": [
+        "SUNY announced grants of up to $15,000 per campus on October 29 for projects that help students connect, including device-free lounges, peer mentoring and community meals.",
+        "The program treats social connection as something campuses can deliberately support through spaces and recurring activities, rather than leaving every student to find a community alone.",
+        "The announcement establishes funding for initiatives; it does not yet demonstrate how much those initiatives will reduce loneliness."
+      ],
+      "sources": [
+        {
+          "label": "SUNY · Campus belonging grants",
+          "url": "https://www.suny.edu/suny-news/press-releases/10-26/10-29-26/student-loneliness.html"
+        }
+      ],
+      "image": {
+        "path": "assets/2026-10-29/panels.webp",
+        "width": 1983,
+        "height": 793,
+        "alt": "Students share a table beneath an imagined campus arch.",
+        "credit": "AI-generated conceptual illustration · The Daily Curiosity. Imagined scene; not documentary imagery.",
+        "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied.",
+        "panel": 0
+      }
+    },
+    {
+      "category": "Artificial intelligence · Enterprise IT",
+      "headline": "Mistral puts a new cybersecurity model in organizations’ own hands",
+      "news_date": "2026-10-29",
+      "sentences": [
+        "Mistral released downloadable weights for an improved Large 4 model on October 29, following its earlier public preview, and says the update strengthens coding and defensive cybersecurity work.",
+        "The practical distinction is control: organizations can deploy and customize the model on their own infrastructure instead of depending on the vendor to serve every request.",
+        "The company also acknowledges potential misuse and says it is updating guardrails, so open availability should not be confused with independently verified safety or automatic security gains."
+      ],
+      "sources": [
+        {
+          "label": "Mistral · Large 4 weights release",
+          "url": "https://mistral.ai/news/mistral-large-4-oss/"
+        }
+      ],
+      "image": {
+        "path": "assets/2026-10-29/panels.webp",
+        "width": 1983,
+        "height": 793,
+        "alt": "Conceptual server cabinets connected to branching abstract circuitry.",
+        "credit": "AI-generated conceptual illustration · The Daily Curiosity. Imagined scene; not documentary imagery.",
+        "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied.",
+        "panel": 1
+      }
+    },
+    {
+      "category": "Space · Infrastructure",
+      "headline": "A spacewalk puts the station’s power supply in the spotlight",
+      "news_date": "2026-10-29",
+      "sentences": [
+        "NASA reports that Anil Menon and Canadian astronaut Joshua Kutryk began a spacewalk at 7:57 a.m. Eastern on October 29 to install and deploy a roll-out solar array on the International Space Station’s 2A power channel.",
+        "The job is a reminder that an orbital laboratory needs hands-on infrastructure work as well as scientific experiments: the equipment supplying electricity is itself part of the mission.",
+        "The cited morning update confirms the spacewalk began, not that installation and deployment were completed."
+      ],
+      "sources": [
+        {
+          "label": "NASA · Spacewalk start update",
+          "url": "https://www.nasa.gov/blogs/spacestation/2026/10/29/astronauts-begin-spacewalk-to-install-roll-out-solar-arrays-2/"
+        }
+      ],
+      "image": {
+        "path": "assets/2026-10-29/panels.webp",
+        "width": 1983,
+        "height": 793,
+        "alt": "Imagined astronaut beside a solar panel above Earth; not an engineering diagram.",
+        "credit": "AI-generated conceptual illustration · The Daily Curiosity. Imagined scene; not documentary imagery.",
+        "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied.",
+        "panel": 2
+      }
+    },
+    {
+      "category": "Earth science · Coastal livelihoods",
+      "headline": "Satellite maps help oyster growers trace a damaging bloom",
+      "news_date": "2026-10-29",
+      "sentences": [
+        "NASA reports that researchers are helping Virginia assess oyster-farm impacts after a September algae bloom stretched along roughly 15 miles of the Chesapeake Bay’s Eastern Shore.",
+        "The team combined Sentinel-2 satellite imagery with a bay forecast model to examine algae concentrations, unusually warm water and winds that may have moved bloom waters toward growing areas.",
+        "That connects observations from orbit with decisions about coastal livelihoods, while the ongoing assessment leaves the extent and causes of individual farms’ losses unresolved."
+      ],
+      "sources": [
+        {
+          "label": "NASA · Virginia oyster-loss assessment",
+          "url": "https://science.nasa.gov/blogs/science-news/2026/10/29/nasa-virginia-oyster-loss-algae-bloom/"
+        }
+      ],
+      "image": {
+        "path": "assets/2026-10-29/panels.webp",
+        "width": 1983,
+        "height": 793,
+        "alt": "Conceptual satellite observing coastal water above an oyster shell.",
+        "credit": "AI-generated conceptual illustration · The Daily Curiosity. Imagined scene; not documentary imagery.",
+        "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied.",
+        "panel": 3
+      }
+    },
+    {
+      "category": "New York · Adirondacks",
+      "headline": "Protecting brook trout could mean flipping the baitfish rule",
+      "news_date": "2026-10-28",
+      "sentences": [
+        "New York’s Department of Environmental Conservation proposed prohibiting live baitfish use across the Adirondack Park except in 146 waters, replacing a system that lists waters where baitfish are prohibited.",
+        "The October 28 proposal targets introductions that allow baitfish to compete with pond-dwelling brook trout, and would also remove special harvest rules on 24 managed trout ponds.",
+        "The shift illustrates how making an ecological protection easier to understand can be part of making it work; these are proposed changes, with public comments accepted through December 28, rather than rules already in effect."
+      ],
+      "sources": [
+        {
+          "label": "NYS DEC · Proposed trout protections",
+          "url": "https://dec.ny.gov/news/press-releases/2026/10/dec-announces-proposed-rulemaking-for-the-protection-of-adirondack-brook-trout-ponds"
+        }
+      ],
+      "image": {
+        "path": "assets/2026-10-29/panels.webp",
+        "width": 1983,
+        "height": 793,
+        "alt": "A stylized trout in a mountain pond; not a brook trout identification guide.",
+        "credit": "AI-generated conceptual illustration · The Daily Curiosity. Imagined scene; not documentary imagery; fish is symbolic, not a species identification.",
+        "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied.",
+        "panel": 4
+      }
+    }
+  ]
+}

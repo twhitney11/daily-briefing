@@ -1,0 +1,26 @@
+[
+  {
+    "path": "assets/2026-10-29/hero.webp",
+    "sha256": "8c87ae3120caf48fe88ace13efbccd50e615d3c8a2d28dd388d5146e190dc036",
+    "bytes": 372966,
+    "creator": "OpenAI native image_gen for The Daily Curiosity",
+    "generated_on": "2026-10-29",
+    "original_file": "/workspace/generated_images/exec-13368ad2-98c6-4b86-a9cd-33ebf7c36c9f.png",
+    "original_sha256": "91e9576ac36927f63468d269c511ff0aca532bdc3924c54ea00ac930325651b8",
+    "rights": "Original generated conceptual illustration; no external asset incorporated",
+    "alterations": "Resized and encoded as WebP; contact-sheet panels displayed through CSS",
+    "credit": "AI-generated conceptual illustration \u00b7 The Daily Curiosity"
+  },
+  {
+    "path": "assets/2026-10-29/panels.webp",
+    "sha256": "fea53d7c5c4badb343c96e91c21aaf1e4f3433710bf077a757fd051680403067",
+    "bytes": 356248,
+    "creator": "OpenAI native image_gen for The Daily Curiosity",
+    "generated_on": "2026-10-29",
+    "original_file": "/workspace/generated_images/exec-e5b0dad2-c753-4d18-bd34-092449b48c8e.png",
+    "original_sha256": "6b42830197039f272d43c9313f163754152e3e3f96c2c52218b0b14534d972b9",
+    "rights": "Original generated conceptual illustration; no external asset incorporated",
+    "alterations": "Resized and encoded as WebP; contact-sheet panels displayed through CSS",
+    "credit": "AI-generated conceptual illustration \u00b7 The Daily Curiosity"
+  }
+]
