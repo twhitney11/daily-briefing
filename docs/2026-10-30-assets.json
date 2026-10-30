@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-30",
+  "assets": [
+    {
+      "path": "assets/2026-10-30/hero.webp",
+      "width": 1536,
+      "height": 1024,
+      "alt": "Conceptual collage of two campus peers, editable web tiles, a shield and keys, a symbolic telescope, and hands planting seedlings.",
+      "credit": "AI-generated editorial illustration · The Daily Curiosity. Imagined campus and symbolic telescope; not documentary imagery or an engineering design.",
+      "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied.",
+      "creator": "Native OpenAI image_gen",
+      "source": "/workspace/generated_images/exec-b64ffb3a-918d-494c-8eac-b9f28000f248.png",
+      "source_sha256": "33ea3103f2684de33facbb3fbb336322c782c20a7345f7397ae604d585af0d5b",
+      "sha256": "7ee095dc60b8656cea41840670675063c1f6788c47dce0d988a305f688c7e69e",
+      "bytes": 457954,
+      "checked": "2026-10-30",
+      "processing": "Pillow via scripts/optimize_image.py; width 1536; WebP",
+      "terms": "Native generated original editorial artwork; no third-party asset"
+    }
+  ],
+  "omitted": "Article images omitted; MIT permitted image download blocked with HTTP 403; other third-party assets not copied."
+}
