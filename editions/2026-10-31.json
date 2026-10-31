@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-31",
+  "timezone": "America/New_York",
+  "intro": "The connections we rarely see: materials behind cleaner infrastructure, the answers inside private chatbot conversations, signals from moving muscles, a rock’s planetary history, and the bridge that keeps a region connected. Five discoveries for the last day of October.",
+  "hero": {
+    "path": "assets/2026-10-31/hero.webp",
+    "width": 1536,
+    "height": 1024,
+    "alt": "Conceptual collage of a campus, clean water, election speech bubbles, paired magnetic beads, a Martian rock and an autumn forest bridge.",
+    "credit": "AI-generated editorial illustration · The Daily Curiosity. Imagined campus, bridge and scientific objects; not documentary imagery or device designs.",
+    "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied."
+  },
+  "stories": [
+    {
+      "category": "Higher education · SUNY",
+      "headline": "Stony Brook’s research tour follows the materials behind cleaner water and energy",
+      "news_date": "2026-10-29",
+      "sentences": [
+        "SUNY’s October 29 research showcase at Stony Brook brought attention to projects on removing PFAS, microplastics and pharmaceuticals from water, alongside work on batteries and materials for nuclear energy.",
+        "The visit connected these efforts with faculty and student research across the university, including its Advanced Energy Research and Technology Center.",
+        "The practical thread is that cleaner infrastructure depends on materials that can capture contaminants, store energy or endure extreme conditions; this was a showcase of ongoing work, not an announcement that those challenges are solved."
+      ],
+      "sources": [
+        {
+          "label": "SUNY · Stony Brook research showcase",
+          "url": "https://www.suny.edu/suny-news/press-releases/10-26/10-29-26-2/stonybrook.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "AI · Civic information",
+      "headline": "An election observatory records what chatbots tell different voters",
+      "news_date": "2026-10-30",
+      "sentences": [
+        "MIT researchers introduced a public LLM Election Observatory that repeatedly asks chatbots a fixed set of questions about the midterms, varying the user identities and framing presented to the models.",
+        "The project preserves a record of answers that might otherwise disappear as models and campaign information change, making differences in sources, tone and emphasis available for scrutiny.",
+        "The team reports preliminary variation but has not completed its longitudinal analysis or established how real voters react, so the dashboard is an auditing tool rather than evidence of an electoral effect."
+      ],
+      "sources": [
+        {
+          "label": "MIT News · LLM Election Observatory",
+          "url": "https://news.mit.edu/2026/qa-hey-ai-who-should-i-vote-for-this-year-1030"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Technology · Assistive devices",
+      "headline": "Two tiny magnets could give prosthetics a clearer signal",
+      "news_date": "2026-10-29",
+      "sentences": [
+        "MIT researchers demonstrated muscle tracking with implanted magnetic beads in three people with below-knee amputations, using external sensors to measure changes in the distance between the beads.",
+        "The participants controlled an on-screen cursor rather than a prosthetic limb, an important limit on what the experiment demonstrates.",
+        "Tracking muscle mechanics could provide more stable control signals than skin electrodes, and a larger study is now testing how the approach works with actual prosthetic limbs."
+      ],
+      "sources": [
+        {
+          "label": "MIT News · Magnetic muscle sensing",
+          "url": "https://news.mit.edu/2026/magnetic-sensors-track-muscle-movement-better-prosthetic-limb-control-1029"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Science · Mars",
+      "headline": "A pink rock from the Sahara opens a window into ancient Mars",
+      "news_date": "2026-10-29",
+      "sentences": [
+        "A NASA-funded study dated the Martian meteorite Teghaza 001 to more than 4.1 billion years ago, placing the rose-colored stone among the oldest known samples from Mars.",
+        "Its mixture of volcanic minerals records crust formation and later interaction with subsurface water, offering a view that differs from other ancient Martian meteorites.",
+        "The rock’s precise birthplace remains unknown, but comparing its chemistry with orbital observations could connect laboratory measurements on Earth to the history of Mars’ southern highlands."
+      ],
+      "sources": [
+        {
+          "label": "NASA · Teghaza 001 study",
+          "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "North Country · Infrastructure",
+      "headline": "One Adirondack bridge becomes two routes across the water",
+      "news_date": "2026-10-28",
+      "sentences": [
+        "New York announced completion of a $19.9 million replacement of the Route 28 bridge over Raquette Lake’s south inlet in Hamilton County, with separate vehicle and multi-use spans.",
+        "The project replaces a 1929 bridge, widens the roadway and improves canoe and kayak access while preserving traffic during construction.",
+        "That continuity mattered in a region with few alternate routes: the state says a complete closure would have required a 90-mile detour, making this as much a community-access story as a bridge upgrade."
+      ],
+      "sources": [
+        {
+          "label": "NYSDOT · Raquette Lake bridge replacement",
+          "url": "https://www.dot.ny.gov/news/press-releases/2026/2026-10-28"
+        }
+      ],
+      "image": null
+    }
+  ]
+}

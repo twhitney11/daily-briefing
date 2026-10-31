@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-31",
+  "assets": [
+    {
+      "path": "assets/2026-10-31/hero.webp",
+      "width": 1536,
+      "height": 1024,
+      "alt": "Conceptual collage of a campus, clean water, election speech bubbles, paired magnetic beads, a Martian rock and an autumn forest bridge.",
+      "credit": "AI-generated editorial illustration · The Daily Curiosity. Imagined campus, bridge and scientific objects; not documentary imagery or device designs.",
+      "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied.",
+      "creator": "Native OpenAI image_gen",
+      "source": "/workspace/generated_images/exec-53aca353-48fd-490c-9da3-9daefb3d82e3.png",
+      "source_sha256": "e2b131387be08f76fefb7b2532a93f79d86bec2795828525621059e19ac89eb2",
+      "sha256": "a550533952a7cb0501e009bb6563156ebe9a55cf0ec2d92ac175b30df34eeebd",
+      "bytes": 459520,
+      "checked": "2026-10-31",
+      "processing": "Pillow via scripts/optimize_image.py; width 1536; WebP",
+      "terms": "Native generated original editorial artwork; no third-party asset"
+    }
+  ],
+  "omitted": "Article images omitted; permitted MIT download returned HTTP 403; other third-party images not copied."
+}
