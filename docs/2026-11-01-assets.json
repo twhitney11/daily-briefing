@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-01",
+  "assets": [
+    {
+      "path": "assets/2026-11-01/hero.webp",
+      "sha256": "2be685a9013d22b9d5b1340eb22c2779b181152a2539fdce0e9dafdcad8c67f8",
+      "bytes": 362310,
+      "width": 1536,
+      "height": 768,
+      "creator": "OpenAI native image_gen",
+      "provenance": "Generated in this cloud publication run; original retained at /workspace/generated_images/exec-eb534f66-def9-4dcd-bf97-8252d65495af.png",
+      "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied.",
+      "credit": "AI-generated editorial illustration \u00b7 The Daily Curiosity. Imagined campus and landscape; conceptual science and security imagery, not documentary evidence.",
+      "date_checked": "2026-11-01",
+      "alterations": "Resized to 1536 pixels wide and encoded as WebP by scripts/optimize_image.py"
+    }
+  ]
+}
