@@ -1,0 +1,109 @@
+{
+  "date": "2026-11-02",
+  "timezone": "America/New_York",
+  "intro": "The machinery of progress often hides in ordinary things: a shared story, a folder of instructions, a warning someone acts on, a silk thread, or the next legislative vote. Five stories about the support structures that make bigger ambitions possible.",
+  "hero": {
+    "path": "assets/2026-11-02/hero.webp",
+    "width": 1536,
+    "height": 768,
+    "alt": "Paper collage of students sharing a page over a notebook, interlocking file folders, a warning bell inside a cloud, fish beside silk thread, and a balance holding a leaf and a document.",
+    "credit": "AI-generated editorial illustration · The Daily Curiosity. Imagined people and symbolic objects; not documentary imagery or a scientific diagram.",
+    "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied."
+  },
+  "stories": [
+    {
+      "category": "Higher education · SUNY · Arts",
+      "headline": "A campus AI conversation begins with the stories only people remember",
+      "news_date": "2026-11-02",
+      "sentences": [
+        "SUNY Oswego announced today that memoirist Theresa Okokon will visit on November 9 as part of a Living Writers Series exploring the tension between artistic intelligence and artificial intelligence.",
+        "Her memoir, “Who I Always Was,” examines memory, family stories, identity and her father’s death, bringing lived experience into a campus conversation often dominated by what software can produce.",
+        "The pairing offers a useful question for students: how does a story’s meaning depend on the person who remembers and tells it?",
+        "The free public talk is scheduled for 3 p.m. in the Marano Campus Center auditorium, followed by questions and a book signing; it is an upcoming event, not a report of a discussion that has already happened."
+      ],
+      "sources": [
+        {
+          "label": "SUNY Oswego · Theresa Okokon and the Living Writers Series",
+          "url": "https://ww1.oswego.edu/news/story/theresa-okokon-brings-memory-storytelling-living-writers-series"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Artificial intelligence · Open standards",
+      "headline": "The portable part of an AI workflow may be a plain folder",
+      "news_date": "2026-10-22",
+      "sentences": [
+        "Anthropic is donating the Agent Skills standard to the Linux Foundation’s Agentic AI Foundation, moving its name, logo, GitHub organization and domain into a shared institutional home.",
+        "The basic package is deliberately simple: a folder containing a SKILL.md instruction file plus any scripts and reference materials an agent needs for a task.",
+        "For organizations building repeatable workflows, a shared format could make procedural knowledge easier to carry between compatible assistants instead of rewriting it for each product.",
+        "The proposed roadmap includes versioned releases, a formal proposal process and security guidance, so the governance change should not be confused with a guarantee that every downloaded skill is safe or behaves identically everywhere."
+      ],
+      "sources": [
+        {
+          "label": "Anthropic · Agent Skills donation and proposed roadmap",
+          "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Cybersecurity · Enterprise IT",
+      "headline": "A cloud breach turns an ignored warning into a leadership question",
+      "news_date": "2026-11-02",
+      "sentences": [
+        "GMO Internet Group apologized today after unauthorized access to its Onamae.com Desktop Cloud service led to leaked information and disputed transactions, according to Associated Press reporting.",
+        "CEO Masatoshi Kumagai acknowledged that internal warnings about a systemic weakness had not prompted adequate action, while the company promised compensation and a replacement security system.",
+        "The wider lesson is organizational: a warning only protects customers if someone owns the response and follows it through.",
+        "Those remedies are commitments, not evidence that recovery is complete."
+      ],
+      "sources": [
+        {
+          "label": "Associated Press via ABC News · GMO apology and response",
+          "url": "https://abcnews.com/Technology/wireStory/japanese-online-service-company-gmo-apologizes-security-breaches-137762833"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Science · Food systems",
+      "headline": "A silk microneedle could reach fish too small for routine injections",
+      "news_date": "2026-11-02",
+      "sentences": [
+        "MIT and USDA researchers have developed food-grade silk microneedles with a thin shellac coating that keeps them intact long enough to deliver vaccines underwater.",
+        "In rainbow-trout tests, the approach delivered vaccines to fish weighing just 1–2 grams, a difficult size for conventional needle-based vaccination, while allowing the microneedles to remain attached as fish swam.",
+        "The practical promise is earlier protection against disease with a delivery method that could reduce the handling and worker hazards associated with individual injections.",
+        "The researchers say more development is needed before seamless farm-scale use; the study establishes a delivery approach, not a commercially proven replacement for existing vaccination systems."
+      ],
+      "sources": [
+        {
+          "label": "MIT News · Underwater microneedle research and scale-up limits",
+          "url": "https://news.mit.edu/2026/mit-engineers-design-safer-more-efficient-vaccination-system-farmed-fish-1102"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "New York · Cannabis policy",
+      "headline": "New York’s cannabis labor law is signed—but its rewrite is still ahead",
+      "news_date": "2026-10-29",
+      "sentences": [
+        "Governor Kathy Hochul signed a bill on October 28 repealing mandatory labor-peace agreements for cannabis licensees, while negotiating a follow-up deal to remove its proposed wage board and additional disclosure rules.",
+        "The distinction matters: those latter provisions remain in the signed legislation, with a January 31, 2027 effective date, unless lawmakers enact the agreed amendments in the next session.",
+        "Hochul argues that the board could raise costs and push consumers toward unlicensed sellers, while removing it would also remove the planned process for recommending sector-specific wages.",
+        "For workers and businesses, the next legislative action—not the signature alone—will determine the final shape of this tradeoff."
+      ],
+      "sources": [
+        {
+          "label": "New York Senate · S10643 text and October 28 signing",
+          "url": "https://www.nysenate.gov/legislation/bills/2025/S10643"
+        },
+        {
+          "label": "MJBizDaily · Chapter-amendment agreement and remaining provisions",
+          "url": "https://mjbizdaily.com/news/new-york-governor-signs-cannabis-labor-bill-moves-to-scrap-wage-board/618941"
+        }
+      ],
+      "image": null
+    }
+  ]
+}

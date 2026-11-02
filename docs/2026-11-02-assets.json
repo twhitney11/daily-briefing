@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-02",
+  "assets": [
+    {
+      "path": "assets/2026-11-02/hero.webp",
+      "sha256": "f3962f73f44a32854aed16106da5ef0d7aa0f9cfae128ea35f4c37cdbb4f8d5e",
+      "bytes": 177236,
+      "width": 1536,
+      "height": 768,
+      "creator": "OpenAI native image_gen",
+      "provenance": "Generated in this cloud publication run; original retained at /workspace/generated_images/exec-a81d741c-77f5-4cb3-9ac8-c93d6a560274.png",
+      "original_sha256": "6230de424033c9ae1b4fc218048df58a459816c5a9b4194b910e2a6bbfa1b6cb",
+      "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied.",
+      "credit": "AI-generated editorial illustration \u00b7 The Daily Curiosity. Imagined people and symbolic objects; not documentary imagery or a scientific diagram.",
+      "date_checked": "2026-11-02",
+      "alterations": "Resized to 1536 pixels wide and encoded as WebP by scripts/optimize_image.py"
+    }
+  ]
+}
