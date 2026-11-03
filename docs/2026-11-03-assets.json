@@ -1,0 +1,26 @@
+[
+  {
+    "path": "assets/2026-11-03/hero.webp",
+    "sha256": "5fa959be447eacfe5109db85848160d2d55d36680c3b37630c7846c1104da681",
+    "bytes": 272130,
+    "original": "exec-a4587a24-8ee6-44ff-bc37-8338e1ffdcdb.png",
+    "original_sha256": "5b5cfd9806c58fcd7aac778ba3d8308a1b525061d152af69d92dac0726efc031",
+    "generator": "native image_gen.imagegen",
+    "checked": "2026-11-03",
+    "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied.",
+    "alterations": "Resized and encoded as WebP, quality 82; originals preserved outside the repository.",
+    "credit": "AI-generated editorial illustration \u00b7 The Daily Curiosity. Symbolic artwork, not documentary imagery or a technical diagram."
+  },
+  {
+    "path": "assets/2026-11-03/stories.webp",
+    "sha256": "1670c6f9505d578005eecd7a20f23d8f0875b48a2376aa3e83178feec81f82b9",
+    "bytes": 216238,
+    "original": "exec-b2680cdb-66ff-4bff-8dbd-1f06c4f33c1a.png",
+    "original_sha256": "808524ae858b94b6b8370e8f79edb57c2305b3490c09d622375b8a174c8cd269",
+    "generator": "native image_gen.imagegen",
+    "checked": "2026-11-03",
+    "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied.",
+    "alterations": "Resized and encoded as WebP, quality 82; originals preserved outside the repository.",
+    "credit": "AI-generated editorial illustration \u00b7 The Daily Curiosity. Symbolic artwork, not documentary imagery or a technical diagram."
+  }
+]

@@ -1,0 +1,149 @@
+{
+  "date": "2026-11-03",
+  "timezone": "America/New_York",
+  "intro": "What makes a system useful—and what happens at its limits? Today’s five stories follow guided study, essential infrastructure, the hardware behind the cloud, unusually flexible materials, and a space observatory approaching its final descent.",
+  "hero": {
+    "path": "assets/2026-11-03/hero.webp",
+    "width": 1536,
+    "height": 768,
+    "alt": "Paper collage of a notebook, shielded power grid, cloud and circuit board, threaded gold spheres, and a telescope above Earth.",
+    "credit": "AI-generated editorial illustration · The Daily Curiosity. Symbolic artwork, not documentary imagery or a technical diagram.",
+    "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied."
+  },
+  "stories": [
+    {
+      "category": "Education · Artificial intelligence",
+      "headline": "Google brings guided study into Classroom—and changes the school access decision",
+      "news_date": "2026-11-03",
+      "sentences": [
+        "Google says Guided Learning is available globally in Classroom starting today, giving teacher-assigned activities a study coach grounded in class materials and giving teachers insight into where students need help.",
+        "A separate Search version is scheduled for a pilot in selected U.S. schools later this month, rather than a general release today.",
+        "The company also announced that access to Gemini, Gemini Notebook, Gemini in Classroom and Google Search will be off for K–12 student accounts until administrators explicitly enable those products, with details and rollout still to come.",
+        "For schools, the practical questions now include both how to evaluate independent learning and how the forthcoming controls will affect access to everyday search."
+      ],
+      "sources": [
+        {
+          "label": "Google · Guided Learning launch, Search pilot and forthcoming school controls",
+          "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/"
+        }
+      ],
+      "image": {
+        "path": "assets/2026-11-03/stories.webp",
+        "width": 1980,
+        "height": 792,
+        "alt": "An open notebook and pencil beneath ascending blank paper cards, symbolizing guided learning.",
+        "credit": "AI-generated editorial illustration · The Daily Curiosity. Symbolic artwork, not documentary imagery or a technical diagram.",
+        "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied.",
+        "panel": 0
+      }
+    },
+    {
+      "category": "Cybersecurity · Critical infrastructure",
+      "headline": "Britain’s AI attack forecast points back to today’s neglected defenses",
+      "news_date": "2026-11-03",
+      "sentences": [
+        "Britain’s National Cyber Security Centre warns that AI-powered malware is highly likely to be used in a ransomware attack on the country’s critical national infrastructure by 2028.",
+        "The agency argues that AI can expose and exploit longstanding weaknesses at greater speed and scale, making deferred security investment more consequential.",
+        "Its annual review says most successful attacks still exploit familiar weaknesses, so improving basic resilience remains central to reducing incidents and their impact.",
+        "This is a forecast about future risk, not confirmation that the predicted attack has occurred."
+      ],
+      "sources": [
+        {
+          "label": "NCSC · November 3 warning and investment priorities",
+          "url": "https://www.ncsc.gov.uk/news/cyber-chief-uk-facing-ai-powered-attacks-on-critical-infrastructure-in-two-years"
+        },
+        {
+          "label": "NCSC · Annual review: lessons from incidents",
+          "url": "https://www.ncsc.gov.uk/collection/annual-review-2026/understanding-threat/7-things-learned"
+        }
+      ],
+      "image": {
+        "path": "assets/2026-11-03/stories.webp",
+        "width": 1980,
+        "height": 792,
+        "alt": "A paper shield surrounds an electricity pylon, symbolizing protection of essential infrastructure.",
+        "credit": "AI-generated editorial illustration · The Daily Curiosity. Symbolic artwork, not documentary imagery or a technical diagram.",
+        "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied.",
+        "panel": 1
+      }
+    },
+    {
+      "category": "Enterprise IT · Open research",
+      "headline": "Cloud researchers get a way to test closer to the real hardware",
+      "news_date": "2026-11-02",
+      "sentences": [
+        "MIT Lincoln Laboratory engineer Jeffery Lim has built a research platform that supports single-root input/output virtualization, the technique that gives virtual machines direct access to slices of a hardware device.",
+        "The design adds traffic switching and a network function engine for security rules, helping researchers test cloud ideas against features used in commercial infrastructure.",
+        "That matters because a security or performance proposal can look different when it meets the hardware that actually carries customer traffic.",
+        "MIT’s November 2 profile says Lim presented the work in September and plans to release it as open source; it does not establish that a public release is already available."
+      ],
+      "sources": [
+        {
+          "label": "MIT News · SR-IOV platform, components and release status",
+          "url": "https://news.mit.edu/2026/jeffery-lim-wants-to-open-up-cloud-research-1102"
+        }
+      ],
+      "image": {
+        "path": "assets/2026-11-03/stories.webp",
+        "width": 1980,
+        "height": 792,
+        "alt": "A cloud above a circuit board with an open door, symbolizing access to cloud hardware research.",
+        "credit": "AI-generated editorial illustration · The Daily Curiosity. Symbolic artwork, not documentary imagery or a technical diagram.",
+        "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied.",
+        "panel": 2
+      }
+    },
+    {
+      "category": "Science · Materials",
+      "headline": "Softer molecular links give tiny building blocks more ways to assemble",
+      "news_date": "2026-11-02",
+      "sentences": [
+        "A team including MIT researchers has shown that extremely flexible connector molecules can help nanoparticles assemble into controllable networks, challenging an approach built around rigid connections.",
+        "The connectors have electrically charged tips, and experiments showed that changing particle sizes and chain lengths could control connections and produce previously unseen crystal structures.",
+        "The work suggests a different route to materials whose useful properties come from the arrangement of their smallest building blocks.",
+        "Applications in photonics, catalysis and other fields remain possibilities; this is a laboratory advance in assembly, not a finished commercial material."
+      ],
+      "sources": [
+        {
+          "label": "MIT News · Flexible ligands and nanoparticle assembly experiments",
+          "url": "https://news.mit.edu/2026/flexible-new-route-designer-materials-from-nanoparticles-1102"
+        }
+      ],
+      "image": {
+        "path": "assets/2026-11-03/stories.webp",
+        "width": 1980,
+        "height": 792,
+        "alt": "Gold paper spheres joined by looping threads, a conceptual illustration of flexible nanoparticle connections.",
+        "credit": "AI-generated editorial illustration · The Daily Curiosity. Symbolic artwork, not documentary imagery or a technical diagram.",
+        "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied.",
+        "panel": 3
+      }
+    },
+    {
+      "category": "Space · Mission update",
+      "headline": "Swift’s next milestone is a forecast return through the atmosphere",
+      "news_date": "2026-11-02",
+      "sentences": [
+        "NASA now expects the Neil Gehrels Swift Observatory to re-enter Earth’s atmosphere on November 4, a more specific forecast following the end of its science mission covered in our October 26 edition.",
+        "The agency’s November 2 bulletin gives a Space Force prediction of about 3:30 a.m. Eastern Standard Time with an uncertainty of 11 hours, so the timing remains provisional.",
+        "NASA expects most of the roughly 3,200-pound spacecraft to burn up, while some components may survive; the possible fragment-re-entry band lies between 20.6 degrees south and north latitude.",
+        "The observatory operated for almost 22 years after being designed for a two-year prime mission, but re-entry had not been confirmed in the bulletin checked for this edition."
+      ],
+      "sources": [
+        {
+          "label": "NASA · Re-entry forecast and uncertainty",
+          "url": "https://science.nasa.gov/blogs/swift/2026/11/02/nasas-swift-observatory-to-re-enter-atmosphere/"
+        }
+      ],
+      "image": {
+        "path": "assets/2026-11-03/stories.webp",
+        "width": 1980,
+        "height": 792,
+        "alt": "A symbolic telescope with orbital loops above blue atmospheric layers; not a depiction of Swift’s design.",
+        "credit": "AI-generated editorial illustration · The Daily Curiosity. Symbolic artwork, not documentary imagery or a technical diagram.",
+        "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied.",
+        "panel": 4
+      }
+    }
+  ]
+}
