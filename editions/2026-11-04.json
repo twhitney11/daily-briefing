@@ -1,0 +1,145 @@
+{
+  "date": "2026-11-04",
+  "timezone": "America/New_York",
+  "intro": "Opening a door is only part of the story. Today’s five reports explore access to research tools, apps reached through AI, the limits of an emergency stop, a rare glimpse into particle physics, and the North Country’s closely divided election returns.",
+  "hero": {
+    "path": "assets/2026-11-04/hero.webp",
+    "width": 1536,
+    "height": 768,
+    "alt": "Paper collage of an open laboratory, phone, human-operated network switch, branching particle tracks and a mountain ballot box.",
+    "credit": "AI-generated editorial illustration · The Daily Curiosity. Symbolic artwork, not documentary imagery or a technical diagram.",
+    "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied."
+  },
+  "stories": [
+    {
+      "category": "Higher education · Research infrastructure",
+      "headline": "The next lab breakthrough may start with finding the right equipment",
+      "news_date": "2026-11-03",
+      "sentences": [
+        "MIT.nano’s November 3 report describes Hydra, an open-source platform under development that connects laboratory management systems so researchers can discover specialized facilities more easily.",
+        "Presented at an October 5–6 meeting, the project draws information from NEMO installations already used for equipment access, scheduling and other laboratory operations, reducing reliance on separately maintained directories.",
+        "The practical promise is a clearer route between facilities with different capabilities, especially in microelectronics research where one experiment may need several institutions’ tools.",
+        "This is a report on a developing collaboration, not an announcement that a universal laboratory booking service has launched."
+      ],
+      "sources": [
+        {
+          "label": "MIT News · Shared facilities, NEMO and the developing Hydra platform",
+          "url": "https://news.mit.edu/2026/building-connections-across-research-infrastructure-1103"
+        }
+      ],
+      "image": {
+        "path": "assets/2026-11-04/stories.webp",
+        "width": 1980,
+        "height": 792,
+        "alt": "An open laboratory doorway and microscope connect to two symbolic buildings, representing shared research facilities.",
+        "credit": "AI-generated editorial illustration · The Daily Curiosity. Symbolic artwork, not documentary imagery or a technical diagram.",
+        "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied.",
+        "panel": 0
+      }
+    },
+    {
+      "category": "AI · Apps and devices",
+      "headline": "Siri’s developer preview gives apps a new way to be used",
+      "news_date": "2026-11-03",
+      "sentences": [
+        "Apple opened a Siri AI developer preview on November 3 through its iOS, iPadOS, macOS and visionOS 27.3 betas, allowing developers to expose app content and custom actions through App Intents.",
+        "New skills can combine multiple actions into one request, potentially making an assistant the starting point for tasks that previously required navigating an app.",
+        "Apple says customer shipping is still months away and App Store submissions will open in spring, so this is an integration and testing window rather than a general launch of third-party experiences.",
+        "For developers, the opportunity also raises a concrete design question: which actions should an assistant be able to perform, and how clearly can the app explain them?"
+      ],
+      "sources": [
+        {
+          "label": "Apple Developer · Preview scope and release timetable",
+          "url": "https://developer.apple.com/news/?id=gdk2umrf"
+        }
+      ],
+      "image": {
+        "path": "assets/2026-11-04/stories.webp",
+        "width": 1980,
+        "height": 792,
+        "alt": "A generic phone with a speech bubble branches into three blank action cards.",
+        "credit": "AI-generated editorial illustration · The Daily Curiosity. Symbolic artwork, not documentary imagery or a technical diagram.",
+        "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied.",
+        "panel": 1
+      }
+    },
+    {
+      "category": "Cybersecurity · Enterprise IT",
+      "headline": "An AI kill switch arrives—with a boundary worth reading",
+      "news_date": "2026-11-03",
+      "sentences": [
+        "CrowdStrike says its new AI Kill Switch is available in Falcon Guardian, where security teams can direct connected gateways to block an agent’s access to AI models.",
+        "The company’s technical explanation separates that current gateway enforcement from broader containment across endpoints, identities, cloud systems, SaaS and browsers, which it describes as coming soon.",
+        "That distinction matters because cutting off model access and terminating processes or revoking permissions are different controls.",
+        "For organizations deploying agents, the announcement makes the location and scope of an emergency stop a practical part of system design; it does not establish that one switch already stops every agent action everywhere."
+      ],
+      "sources": [
+        {
+          "label": "CrowdStrike · Available gateway control and planned containment",
+          "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/"
+        }
+      ],
+      "image": {
+        "path": "assets/2026-11-04/stories.webp",
+        "width": 1980,
+        "height": 792,
+        "alt": "A hand operates a circuit breaker beneath connected abstract robot symbols.",
+        "credit": "AI-generated editorial illustration · The Daily Curiosity. Symbolic artwork, not documentary imagery or a technical diagram.",
+        "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied.",
+        "panel": 2
+      }
+    },
+    {
+      "category": "Science · Particle physics",
+      "headline": "A rare particle decay offers a new test of the unseen",
+      "news_date": "2026-11-03",
+      "sentences": [
+        "A Cambridge-led team working with CERN’s LHCb experiment reports evidence for an exceptionally rare decay of a neutral beauty meson into a muon and an antimuon.",
+        "Cambridge says combining newer observations with earlier data brought the signal to 3.2 sigma, the first single-experiment evidence for this decay.",
+        "The interest is in how often the transformation happens: additional particles could change the pathways available to it and therefore its frequency.",
+        "The result is evidence for a rare decay, not a discovery of dark matter or confirmation of new particles."
+      ],
+      "sources": [
+        {
+          "label": "University of Cambridge · Rare decay evidence and its significance",
+          "url": "https://www.cam.ac.uk/stories/zeptoverse"
+        }
+      ],
+      "image": {
+        "path": "assets/2026-11-04/stories.webp",
+        "width": 1980,
+        "height": 792,
+        "alt": "A luminous point branches into two curved paper tracks against dark blue; a conceptual particle illustration.",
+        "credit": "AI-generated editorial illustration · The Daily Curiosity. Symbolic artwork, not documentary imagery or a technical diagram.",
+        "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied.",
+        "panel": 3
+      }
+    },
+    {
+      "category": "North Country · Election 2026",
+      "headline": "Constantino claims NY-21 as unofficial returns show a narrow lead",
+      "news_date": "2026-11-04",
+      "sentences": [
+        "Republican Anthony Constantino declared victory in New York’s 21st Congressional District late Tuesday, according to Emily Russell’s North Country Public Radio report carried by WRVO.",
+        "The report describes unofficial returns at roughly 51–49 percent over Democrat Blake Gendebien, with a margin of about 6,000 votes as of 3 a.m. Wednesday.",
+        "Constantino told supporters he wanted to bring jobs and more money to the North Country, while offering few specifics about his congressional agenda.",
+        "These figures are a time-stamped account of unofficial returns, not a certified final tally; the close result leaves a divided constituency for its next representative to serve."
+      ],
+      "sources": [
+        {
+          "label": "NCPR / WRVO · November 4 report and unofficial overnight returns",
+          "url": "https://www.wrvo.org/2026-11-04/constantino-declares-victory-in-21st-congressional-district-race-gendebien-wont-concede"
+        }
+      ],
+      "image": {
+        "path": "assets/2026-11-04/stories.webp",
+        "width": 1980,
+        "height": 792,
+        "alt": "A neutral ballot box and blank ballot sit before stylized mountain ridges and pine trees.",
+        "credit": "AI-generated editorial illustration · The Daily Curiosity. Symbolic artwork, not documentary imagery or a technical diagram.",
+        "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied.",
+        "panel": 4
+      }
+    }
+  ]
+}
