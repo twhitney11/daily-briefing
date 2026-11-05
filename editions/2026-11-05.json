@@ -1,0 +1,145 @@
+{
+  "date": "2026-11-05",
+  "timezone": "America/New_York",
+  "intro": "Progress depends on the systems underneath it. Today: support that helps students finish, proof behind an AI response, safer medical software, a flying laboratory built for change, and the everyday infrastructure that protects New York’s water.",
+  "hero": {
+    "path": "assets/2026-11-05/hero.webp",
+    "width": 1536,
+    "height": 768,
+    "alt": "Paper collage of a university arch, verified AI chip, protected medical display, paper airplane and river infrastructure.",
+    "credit": "AI-generated editorial illustration · The Daily Curiosity. Symbolic artwork, not documentary imagery or a technical diagram.",
+    "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied."
+  },
+  "stories": [
+    {
+      "category": "Higher education · SUNY",
+      "headline": "SUNY joins a national effort to turn enrollment into completion",
+      "news_date": "2026-11-02",
+      "sentences": [
+        "SUNY announced November 2 that it is joining the National Student Success Project, a collaboration organized by five national higher-education associations.",
+        "The effort centers on affordable routes to graduation, educational value, academic innovation, career preparation and civil dialogue, with several SUNY campuses participating alongside system administration.",
+        "SUNY connects the commitment to existing supports such as advising, textbook and transportation assistance, and experiential learning.",
+        "The useful test will be whether sharing practices helps institutions remove obstacles between starting college and finishing a degree; joining the project is a commitment, not evidence of a new completion gain."
+      ],
+      "sources": [
+        {
+          "label": "SUNY · Participation and student-support priorities",
+          "url": "https://www.suny.edu/suny-news/press-releases/11-26/11-2-26/nssp.html"
+        }
+      ],
+      "image": {
+        "path": "assets/2026-11-05/stories.webp",
+        "width": 1980,
+        "height": 792,
+        "alt": "An open book leads up steps to an imaginary university arch, symbolizing support through college.",
+        "credit": "AI-generated editorial illustration · The Daily Curiosity. Symbolic artwork, not documentary imagery or a technical diagram.",
+        "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied.",
+        "panel": 0
+      }
+    },
+    {
+      "category": "AI · Verification",
+      "headline": "An AI answer could come with proof of which model made it",
+      "news_date": "2026-11-02",
+      "sentences": [
+        "Anthropic has released FlashProve, an open-source research prototype that produces cryptographic evidence linking a response to a particular committed set of model weights without revealing those weights.",
+        "That could help customers and evaluators detect model substitution or altered responses instead of relying on a provider’s label.",
+        "The company reports a substantial cost in its test configuration: generating proofs required about 70–95 times the GPU time of the comparison inference run.",
+        "The work verifies the relationship between a computation and a model, rather than proving the answer is true, and Anthropic describes it as intermediate research progress."
+      ],
+      "sources": [
+        {
+          "label": "Anthropic Research · FlashProve, benchmarks and limitations",
+          "url": "https://www.anthropic.com/research/provable-inference"
+        }
+      ],
+      "image": {
+        "path": "assets/2026-11-05/stories.webp",
+        "width": 1980,
+        "height": 792,
+        "alt": "An abstract computer chip sits above a check-mark seal, representing verification of model identity.",
+        "credit": "AI-generated editorial illustration · The Daily Curiosity. Symbolic artwork, not documentary imagery or a technical diagram.",
+        "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied.",
+        "panel": 1
+      }
+    },
+    {
+      "category": "Cybersecurity · Enterprise IT",
+      "headline": "Medical-imaging software fixes put the update path under scrutiny",
+      "news_date": "2026-11-02",
+      "sentences": [
+        "CERT/CC reports two code-execution vulnerabilities in INFINITT PACS System Manager versions 3.0.11.3 and 3.0.11.5, software used with an enterprise medical-imaging platform.",
+        "One involves a locally modifiable update file; the other involves unsafe handling of an application link that a user is persuaded to open.",
+        "The November 2 advisory identifies versions 3.0.12.3 and 3.0.12.5 as fixes and recommends updating as soon as operationally feasible.",
+        "CERT/CC says there are no indications of exploitation, making this a patch-planning story rather than a reported hospital breach—and a reminder that supporting utilities belong in the software inventory."
+      ],
+      "sources": [
+        {
+          "label": "CERT/CC · VU#203719, affected versions and fixes",
+          "url": "https://kb.cert.org/vuls/id/203719/"
+        }
+      ],
+      "image": {
+        "path": "assets/2026-11-05/stories.webp",
+        "width": 1980,
+        "height": 792,
+        "alt": "A fictional medical scan display is paired with a shield and padlock, representing software protection.",
+        "credit": "AI-generated editorial illustration · The Daily Curiosity. Symbolic artwork, not documentary imagery or a technical diagram.",
+        "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied.",
+        "panel": 2
+      }
+    },
+    {
+      "category": "Science · Experimental flight",
+      "headline": "NASA’s next flying laboratory is designed to change between experiments",
+      "news_date": "2026-11-04",
+      "sentences": [
+        "NASA unveiled the X-70 Fractal on November 4 as a crewed experimental aircraft intended to test advanced flight controls and other aviation technologies.",
+        "The agency describes rapidly reconfigurable controls and room for up to 2,000 pounds of experimental equipment inside and outside the aircraft.",
+        "The appeal is a reusable research platform whose payloads can change between investigations, expanding the kinds of experiments NASA can take into real flight.",
+        "NASA expects its first flight under the agency’s banner within two years, so the announcement is a research-platform plan rather than confirmation of a completed NASA flight."
+      ],
+      "sources": [
+        {
+          "label": "NASA · X-70 announcement and expected flight timetable",
+          "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/"
+        }
+      ],
+      "image": {
+        "path": "assets/2026-11-05/stories.webp",
+        "width": 1980,
+        "height": 792,
+        "alt": "A folded-paper airplane floats above connected experiment blocks; it does not depict the actual X-70.",
+        "credit": "AI-generated editorial illustration · The Daily Curiosity. Symbolic artwork, not documentary imagery or a technical diagram.",
+        "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied.",
+        "panel": 3
+      }
+    },
+    {
+      "category": "New York · Water infrastructure",
+      "headline": "Cleaner water starts with sewers, streambanks—and snowplows",
+      "news_date": "2026-11-05",
+      "sentences": [
+        "New York’s DEC highlighted more than $34 million in recently awarded grants for 25 Western New York water-quality projects in a November 5 regional update.",
+        "The awards include $10 million for a biological wastewater-treatment upgrade in Niagara Falls and $10 million for a sewer system along Chautauqua Lake’s northeast shore.",
+        "Smaller projects include better salt storage and snowplow blades intended to reduce road-salt use, showing how water protection reaches beyond treatment plants.",
+        "These are funded improvements with intended benefits, not a declaration that construction is finished or water-quality gains have already been measured."
+      ],
+      "sources": [
+        {
+          "label": "NYSDEC · Region 9 water-quality grant awards",
+          "url": "https://dec.ny.gov/news/press-releases/2026/11/icymi-dec-region-9-highlights-more-than-34-million-in-grants-awarded-to-local-water-quality-protection-projects"
+        }
+      ],
+      "image": {
+        "path": "assets/2026-11-05/stories.webp",
+        "width": 1980,
+        "height": 792,
+        "alt": "A stylized river flows beside green banks and a generic waterworks pipe, symbolizing water infrastructure.",
+        "credit": "AI-generated editorial illustration · The Daily Curiosity. Symbolic artwork, not documentary imagery or a technical diagram.",
+        "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied.",
+        "panel": 4
+      }
+    }
+  ]
+}

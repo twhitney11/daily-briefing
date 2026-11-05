@@ -1,0 +1,32 @@
+[
+  {
+    "path": "assets/2026-11-05/hero.webp",
+    "original": "/workspace/generated_images/exec-82816fe4-0332-4c4b-be1b-188a35881078.png",
+    "creator": "OpenAI native image_gen",
+    "generated_on": "2026-11-05",
+    "rights": "Original generated conceptual editorial artwork; no third-party image copied.",
+    "permitted_alterations": "Resize and WebP optimization; contact-sheet panels displayed by CSS.",
+    "credit": "AI-generated editorial illustration \u00b7 The Daily Curiosity.",
+    "dimensions": [
+      1536,
+      768
+    ],
+    "bytes": 369152,
+    "sha256": "18396598c8d8d240bd770c43aa9f0f60c7ff9d5f8f5ec1ca4ab3507cc8df58fb"
+  },
+  {
+    "path": "assets/2026-11-05/stories.webp",
+    "original": "/workspace/generated_images/exec-b4037dfa-f26e-4213-a0ed-c4a83a544a19.png",
+    "creator": "OpenAI native image_gen",
+    "generated_on": "2026-11-05",
+    "rights": "Original generated conceptual editorial artwork; no third-party image copied.",
+    "permitted_alterations": "Resize and WebP optimization; contact-sheet panels displayed by CSS.",
+    "credit": "AI-generated editorial illustration \u00b7 The Daily Curiosity.",
+    "dimensions": [
+      1980,
+      792
+    ],
+    "bytes": 570962,
+    "sha256": "1a50df0ef221dc4a4b20b886f8a5d130ffaae2a1494c1e5cf5a0c56d4440b1ac"
+  }
+]
