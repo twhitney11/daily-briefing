@@ -1,0 +1,17 @@
+[
+  {
+    "path": "assets/2026-11-06/hero.webp",
+    "original": "/workspace/generated_images/exec-dd8f0400-d71a-4a85-95cb-ecf10e7eb67b.png",
+    "creator": "OpenAI native image_gen",
+    "generated_on": "2026-11-06",
+    "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied.",
+    "permitted_alterations": "Resize and WebP optimization.",
+    "credit": "AI-generated editorial illustration \u00b7 The Daily Curiosity. Symbolic artwork, not documentary imagery or a technical diagram.",
+    "dimensions": [
+      1536,
+      768
+    ],
+    "bytes": 222730,
+    "sha256": "f7adee405b196b7c04837b41257e5810cbfa12e8b32fbb2d51a9c1b8f59b5d07"
+  }
+]
