@@ -1,0 +1,109 @@
+{
+  "date": "2026-11-08",
+  "timezone": "America/New_York",
+  "intro": "Good foundations are easy to overlook: the mentors behind a classroom, the memories behind a robot’s decisions, the software guarding a network, the stars preserving galactic history and the seedlings behind a regulated market. Today’s five stories look beneath the finished result.",
+  "hero": {
+    "path": "assets/2026-11-08/hero.webp",
+    "width": 1536,
+    "height": 768,
+    "alt": "Paper collage of a teaching notebook, a robot comparing scene cards, a locked brick gateway, a star cluster and nursery seedlings.",
+    "credit": "AI-generated editorial illustration · The Daily Curiosity. Symbolic artwork, not documentary imagery or a technical diagram.",
+    "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied."
+  },
+  "stories": [
+    {
+      "category": "Higher education · SUNY · North Country",
+      "headline": "The teacher pipeline also needs teachers for its teachers",
+      "news_date": "2026-11-03",
+      "sentences": [
+        "New York named 188 STEM Master Teachers and 24 Master Counselors on November 3, adding experienced educators from 138 school districts to a statewide mentoring network.",
+        "Participants receive a $15,000 annual stipend during four years of professional development and work with educators preparing to enter the profession or beginning their careers.",
+        "Nine SUNY campuses host the Master Teacher Program, with SUNY Plattsburgh serving as the North Country partner.",
+        "The investment supports the people who help new teachers and counselors develop their practice, extending a university’s role beyond the initial degree."
+      ],
+      "sources": [
+        {
+          "label": "SUNY · November 3 cohort announcement",
+          "url": "https://www.suny.edu/suny-news/press-releases/11-26/11-3-26/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "AI · Robotics",
+      "headline": "A robot’s first impression no longer has to become a permanent memory",
+      "news_date": "2026-11-05",
+      "sentences": [
+        "MIT researchers described a system on November 5 that detects uncertain object descriptions in a robot’s memory and revises them using views from different angles.",
+        "Called UQ-DAAAM, it compares captions, selects useful additional views and combines the evidence into an updated description, addressing errors such as mistaking a distant chimney for a squirrel.",
+        "The significance is that a robot can correct the stored account it will later use to answer questions about its surroundings, rather than carrying an early mistake forward.",
+        "The reported gains come from research evaluations; using the method to guide mobile manipulators remains future work."
+      ],
+      "sources": [
+        {
+          "label": "MIT News · Research method and limits",
+          "url": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Cybersecurity · Enterprise IT",
+      "headline": "The firewall itself joins the urgent patch queue",
+      "news_date": "2026-11-06",
+      "sentences": [
+        "Canada’s Cyber Centre reported November 6 that SonicWall says CVE-2026-19868 is being exploited, and that CISA added it to its Known Exploited Vulnerabilities catalog the same day.",
+        "The advisory identifies affected SonicOS versions before 7.3.4-7013 and before 8.2.2-8015 and directs administrators to review the vendor’s updates.",
+        "This is a different vulnerability and product family from the SMA1000 issue covered in October, making it a fresh reason to check the inventory of network-edge devices.",
+        "For enterprise teams, confirmed exploitation changes the priority: the system protecting access needs its own prompt maintenance and exposure review."
+      ],
+      "sources": [
+        {
+          "label": "Canadian Centre for Cyber Security · November 6 advisory",
+          "url": "https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av26-1133"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Space · Galactic archaeology",
+      "headline": "A star cluster’s backward orbit may preserve a history of capture",
+      "news_date": "2026-11-05",
+      "sentences": [
+        "NASA’s November 5 Hubble release combines observations of the globular cluster Messier 30 from three programs, spanning ultraviolet, visible and near-infrared light.",
+        "M30 orbits opposite the Milky Way’s rotation, a clue that it may have formed elsewhere and been captured rather than originating in our galaxy.",
+        "The combined data also draw on observations used to track stellar populations over 15 years, showing how a long-lived telescope can turn repeat visits into a record of change.",
+        "The capture interpretation remains a possibility, while the broader value is clear: ancient clusters preserve clues to the Milky Way’s assembly that a single attractive image cannot reveal."
+      ],
+      "sources": [
+        {
+          "label": "NASA · Hubble observations and galactic history",
+          "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "New York · Cannabis industry",
+      "headline": "Eight minutes puts the cannabis nursery rollout’s small first round in focus",
+      "news_date": "2026-11-05",
+      "sentences": [
+        "The Farmer Veteran Coalition of New York reported that the state’s first adult-use cannabis nursery application window closed at 10:08 a.m. on November 5 after reaching its initial 50-application limit.",
+        "OCM’s guidance describes a staged rollout for businesses supplying seeds, clones and immature plants to eligible licensed operators, with applications reviewed in arrival order and further board approval required.",
+        "A nursery license by itself does not authorize direct sales to consumers or home growers.",
+        "This is a development at the start of the regulated supply chain: receiving an application is only the beginning of establishing the businesses that will provide growers with planting material."
+      ],
+      "sources": [
+        {
+          "label": "NYS Office of Cannabis Management · Nursery scope and review process",
+          "url": "https://cannabis.ny.gov/au-nursery"
+        },
+        {
+          "label": "Farmer Veteran Coalition of New York · November 5 closure report",
+          "url": "https://farmvetcony.org/policy-roundup/"
+        }
+      ],
+      "image": null
+    }
+  ]
+}
