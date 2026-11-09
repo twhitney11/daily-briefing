@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-09",
+  "timezone": "America/New_York",
+  "intro": "A new route can be a person to learn from, a shared language for matter, a better place to prevent harm, a planetary detour or a path through protected woods. Today’s five stories explore how those routes become possible.",
+  "hero": {
+    "path": "assets/2026-11-09/hero.webp",
+    "width": 1536,
+    "height": 768,
+    "alt": "Paper collage linking an open college doorway, particles and a wave, a shield in a digital network, Earth and Mars, and a winding forest path.",
+    "credit": "AI-generated editorial illustration · The Daily Curiosity. Symbolic artwork, not documentary imagery or a scientific diagram.",
+    "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied."
+  },
+  "stories": [
+    {
+      "category": "Higher education · SUNY",
+      "headline": "First-generation students can find their predecessors at the front of the classroom",
+      "news_date": "2026-11-08",
+      "sentences": [
+        "SUNY marked First-Generation College Day on November 8 by recognizing not only students but also campus presidents, faculty and staff who were themselves the first in their families to attend college.",
+        "The statement connects that recognition to existing access and support programs, including EOP, ASAP|ACE and SUNY Reconnect, rather than announcing a new grant or eligibility change.",
+        "Its useful campus-level implication is that first-generation experience need not be invisible once someone becomes an educator or administrator: making those paths visible can give newcomers people to learn from."
+      ],
+      "sources": [
+        {
+          "label": "SUNY · First-Generation College Day statement",
+          "url": "https://www.suny.edu/suny-news/press-releases/11-26/11-8-26/first-gen.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "AI · Scientific computing",
+      "headline": "Sand, water and proteins get a shared simulation language",
+      "news_date": "2026-11-09",
+      "sentences": [
+        "MIT and collaborating researchers introduced WorldParticle on November 9, a deep-learning system that represents different materials as particles and predicts how they move.",
+        "The team demonstrated the approach across six physical phenomena, including deformable objects, granular materials and proteins, with a shared architecture rather than a separate hand-built solver for each.",
+        "That matters when materials interact, such as liquid pushing against a flexible valve, because combining different simulation tools can become a problem of its own.",
+        "The researchers describe a step toward a general simulation pipeline; broader applications such as galaxy mergers remain ambitions, not demonstrated capabilities in this announcement."
+      ],
+      "sources": [
+        {
+          "label": "MIT News · WorldParticle research and limits",
+          "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Digital safety · AI policy",
+      "headline": "Stopping deepfake abuse means following the services that sustain it",
+      "news_date": "2026-11-09",
+      "sentences": [
+        "A Brown University study publicized November 9 maps 11 technology categories behind AI-generated nonconsensual intimate imagery, spanning creation, distribution, discovery, infrastructure and payment services.",
+        "The researchers analyzed 64 state and federal laws and found that more than 92 percent focus on individual creators and distributors, leaving much of the supporting ecosystem comparatively unaddressed.",
+        "Their argument shifts attention toward the platforms and services that enable abuse, giving policymakers and technology companies more places to consider prevention before images spread.",
+        "This is a research framework and call for further interventions, not evidence that a new technical safeguard or legal remedy has already solved the problem."
+      ],
+      "sources": [
+        {
+          "label": "Brown University · Ecosystem study published November 9",
+          "url": "https://www.brown.edu/news/2026-11-09/ai-deepfake-legislation"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Space · Mission design",
+      "headline": "Two Mars probes turn a year of waiting into a powered slingshot",
+      "news_date": "2026-11-09",
+      "sentences": [
+        "NASA confirmed November 9 that both ESCAPADE spacecraft completed powered Earth flybys, combining gravity assists with engine burns to begin their journey toward Mars.",
+        "After launching in November 2025, the pair spent time in a looping Earth-proximity orbit before returning for maneuvers on November 7 and 9, demonstrating a route that can loosen the dependence on conventional direct-to-Mars launch windows.",
+        "The spacecraft are targeting Mars arrival in September 2027, with science operations expected to start in June 2028 to examine how the solar wind drives atmospheric loss.",
+        "The flybys are accomplished milestones; arrival and coordinated observations from two locations around Mars are still ahead."
+      ],
+      "sources": [
+        {
+          "label": "NASA · Completed ESCAPADE flybys and mission timetable",
+          "url": "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "New York · Conservation",
+      "headline": "Protecting land also means funding the people who look after it",
+      "news_date": "2026-11-06",
+      "sentences": [
+        "New York DEC announced $2.7 million in competitive Conservation Partnership Program funding on November 6 for qualified nonprofit land-conservation organizations.",
+        "The five grant categories include permanent staffing, organizational capacity, stewardship and public-access improvements, partnerships, and indirect costs associated with land or conservation-easement acquisitions.",
+        "That breadth matters because conserving a property creates continuing work: maintaining access, caring for habitat and keeping the responsible organization capable of doing both.",
+        "The announcement opens a funding opportunity administered by the Land Trust Alliance with DEC; it does not identify a new round of completed awards or protected parcels."
+      ],
+      "sources": [
+        {
+          "label": "NYS DEC · Conservation Partnership Program announcement",
+          "url": "https://dec.ny.gov/news/press-releases/2026/11/dec-announces-27-million-now-available-for-the-conservation-partnership-program"
+        }
+      ],
+      "image": null
+    }
+  ]
+}
