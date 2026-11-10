@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-10",
+  "timezone": "America/New_York",
+  "intro": "Some connections are easy to miss: the mentors behind a doctorate, the evidence behind AI safety, a shared pattern in cyberattacks, a planet hidden in stellar waves, or a library’s route to the water. Today’s five stories make those connections visible.",
+  "hero": {
+    "path": "assets/2026-11-10/hero.webp",
+    "width": 1536,
+    "height": 768,
+    "alt": "Paper collage connects doctoral students and an open book, an AI chip under a magnifying glass, linked incident reports, stars and a planet, and a fishing rod beside an autumn lake.",
+    "credit": "AI-generated editorial illustration · The Daily Curiosity. Symbolic artwork, not documentary imagery or a scientific diagram.",
+    "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied."
+  },
+  "stories": [
+    {
+      "category": "Higher education · SUNY",
+      "headline": "The unwritten rules of a doctorate get a mentoring network",
+      "news_date": "2026-11-10",
+      "sentences": [
+        "SUNY announced its inaugural First-Generation Doctoral Scholars Consortium on November 10, bringing together 26 doctoral students from eight campuses who are the first in their families to graduate college.",
+        "The program combines mentoring, community and professional guidance to help participants understand the expectations of doctoral education and build relationships across institutions.",
+        "It is a concrete new development beyond this week’s First-Generation College Day recognition: support is being organized around the less visible work of learning how an academic career operates."
+      ],
+      "sources": [
+        {
+          "label": "SUNY · New doctoral consortium",
+          "url": "https://www.suny.edu/suny-news/press-releases/11-26/11-10-26/fgdsc.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "AI · Independent evaluation",
+      "headline": "New York puts a statewide research network behind AI safety tests",
+      "news_date": "2026-11-10",
+      "sentences": [
+        "New York launched a statewide AI science and safety effort on November 10 through the Center for AI Responsibility and Research based at Binghamton University.",
+        "The initiative brings together more than 80 researchers, supported by Empire AI computing, with Cornell Tech’s Greg Morrisett and Columbia’s Jeannette Wing serving as interim co-directors.",
+        "Its agenda includes independent evaluation of advanced models and development of the measurements needed to test future systems, giving public officials a source of evidence beyond developers’ own assurances.",
+        "This announcement establishes the research effort and its leadership; it does not report completed safety evaluations or certify any model as safe."
+      ],
+      "sources": [
+        {
+          "label": "SUNY / Governor’s office · AI research initiative",
+          "url": "https://www.suny.edu/suny-news/press-releases/11-26/11-10-26-2/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Cybersecurity · Enterprise IT",
+      "headline": "A better incident form can connect attacks that look unrelated",
+      "news_date": "2026-11-09",
+      "sentences": [
+        "CISA has updated its cyber-incident reporting questionnaire to collect more detailed information about malware, social engineering, hacking techniques and insider threats, according to its November 9 press release republished by Dark Reading.",
+        "Questions about observed behavior now use the MITRE ATT&CK framework, giving reports from different organizations a more consistent vocabulary.",
+        "The practical aim is to connect incidents into emerging campaigns and warn other potential targets, turning a form-design change into a way to improve shared threat intelligence."
+      ],
+      "sources": [
+        {
+          "label": "CISA press release · Republished by Dark Reading",
+          "url": "https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Science · Space",
+      "headline": "A planet’s gravity could leave a message in a stellar pair’s waves",
+      "news_date": "2026-11-10",
+      "sentences": [
+        "Two studies described in a November 10 NASA release explore how the future LISA observatory could detect planets orbiting close pairs of white dwarf stars through changes in their gravitational-wave signals.",
+        "A sufficiently massive planet would make the stellar pair wobble, adding secondary signals around its main gravitational-wave frequency; the researchers also examine how Webb’s infrared observations could help confirm nearby candidates.",
+        "The approach could open a window on a population of planets that has not yet been observed around binary white dwarfs.",
+        "These are proposed detection and confirmation methods, not planet discoveries: LISA remains in development, with launch planned for the mid-2030s."
+      ],
+      "sources": [
+        {
+          "label": "NASA Science · LISA planet-detection studies",
+          "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "New York · Outdoors",
+      "headline": "Tomorrow’s fishing invitation removes the license barrier",
+      "news_date": "2026-11-06",
+      "sentences": [
+        "New York’s final Free Fishing Day of 2026 falls on Wednesday, November 11, allowing residents and visitors to fish the state’s freshwaters without a freshwater fishing license.",
+        "The November 6 announcement links the Veterans Day event with opportunities to introduce someone to fishing, while DEC’s event page confirms that all other fishing regulations still apply.",
+        "The state also points to a fishing-rod lending program at more than 80 libraries, addressing the equipment cost that can remain even when a license is not required."
+      ],
+      "sources": [
+        {
+          "label": "Governor’s office · November 6 announcement",
+          "url": "https://www.governor.ny.gov/news/affordable-recreational-access-governor-hochul-announces-final-annual-free-fishing-day-2026"
+        },
+        {
+          "label": "NYS DEC · November 11 event and rules",
+          "url": "https://dec.ny.gov/get-involved/events/2026/11/free-fishing-day-statewide"
+        }
+      ],
+      "image": null
+    }
+  ]
+}
