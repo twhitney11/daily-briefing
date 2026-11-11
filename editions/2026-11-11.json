@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-11",
+  "timezone": "America/New_York",
+  "intro": "What makes a system more resilient? Today’s five stories follow skills crossing into civilian life, AI ideas meeting greenhouse tests, materials that benefit from disorder, stricter checks on familiar scripts, and rain that brings both relief and risk.",
+  "hero": {
+    "path": "assets/2026-11-11/hero.webp",
+    "width": 1536,
+    "height": 768,
+    "alt": "Conceptual paper collage of a truck on an autumn road, a leaf with molecular and computing symbols, a lattice protecting an egg, a sealed document beside servers, and a desert reservoir beneath rainclouds.",
+    "credit": "AI-generated editorial illustration · The Daily Curiosity. Symbolic artwork, not documentary imagery or a scientific diagram.",
+    "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied."
+  },
+  "stories": [
+    {
+      "category": "New York · Veterans & careers",
+      "headline": "Military driving experience gets a clearer road to a civilian license",
+      "news_date": "2026-11-11",
+      "sentences": [
+        "New York announced on Veterans Day that it is joining the federal Even Exchange program, allowing qualified military applicants to use their training to satisfy the knowledge requirement for a commercial driver license without taking the DMV written permit test.",
+        "The program will complement an existing military skills-test waiver, which can remove the road-test requirement for eligible applicants with recent experience operating equivalent vehicles.",
+        "The change addresses a practical transition problem: people who already know how to operate heavy vehicles can face duplicated testing when moving into civilian work, although eligibility requirements still apply."
+      ],
+      "sources": [
+        {
+          "label": "Governor’s office · Even Exchange announcement",
+          "url": "https://www.governor.ny.gov/news/governor-hochul-announces-new-york-sign-even-exchange-program-help-active-duty-military-and"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "AI · Agriculture",
+      "headline": "An AI search for weed killers will have to prove itself in the greenhouse",
+      "news_date": "2026-11-10",
+      "sentences": [
+        "An MIT-led team has received an award of up to $53 million from ARPA-H for PLOW, a project to develop alternatives to existing herbicides using generative AI.",
+        "The planned workflow links molecular design to laboratory screening and greenhouse experiments, with screening results feeding back into the models.",
+        "Researchers aim to account for weed resistance, manufacturing cost and risks to people and ecosystems together, rather than optimizing only whether a molecule kills a plant.",
+        "This is funding for a research program, not evidence that a safer commercial weed killer has already been developed."
+      ],
+      "sources": [
+        {
+          "label": "MIT News · PLOW research award",
+          "url": "https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Higher education · Materials research",
+      "headline": "A little structural disorder can make a material better at taking a hit",
+      "news_date": "2026-11-11",
+      "sentences": [
+        "Researchers at MIT and Northeastern have designed metamaterials around irregular networks of differently sized beams, taking inspiration from patterns such as leaf veins instead of repeating one identical unit.",
+        "In physical tests reported in a November 11 study, the materials resisted sudden impacts better than conventional ordered metamaterials and cushioned fragile objects embedded inside them.",
+        "The work points toward protective packaging, helmets and other impact-absorbing structures, but the reported result is a material-design approach rather than a certified protective product."
+      ],
+      "sources": [
+        {
+          "label": "MIT News · Network-inspired metamaterials",
+          "url": "https://news.mit.edu/2026/engineers-design-stronger-resilient-nature-inspired-metamaterials-1111"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Cybersecurity · Enterprise IT",
+      "headline": "A signed script can still fail the next security check",
+      "news_date": "2026-11-10",
+      "sentences": [
+        "Microsoft’s November 10 Windows Server 2022 update tightens encoding validation for PowerShell script signing and signature verification.",
+        "The release notes warn that scripts containing invalid UTF-8 may now fail signature checks even if earlier versions accepted them, and describe saving affected scripts as valid UTF-8 with a byte order mark before signing them again.",
+        "For enterprise teams, the detail makes automation compatibility part of patch planning: a security improvement can expose assumptions buried in long-running maintenance scripts."
+      ],
+      "sources": [
+        {
+          "label": "Microsoft Support · KB5131090 release notes",
+          "url": "https://support.microsoft.com/en-us/servicing/os/windows-server/2026/11/kb5131090-windows-server-2022-security-update"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Science · Earth observation",
+      "headline": "A reservoir’s rapid recovery carries a flood warning in the same picture",
+      "news_date": "2026-11-11",
+      "sentences": [
+        "A November 11 NASA Earth Observatory report compares Landsat images showing Navajo Reservoir’s dramatic expansion after heavy autumn rainfall in the Four Corners region.",
+        "Between September 20 and November 7, its water level rose nearly 60 feet; by November 7, it held 108 percent of the average storage for that date, not 108 percent of its total capacity.",
+        "The storms eased short-term drought while causing damaging river floods, illustrating why a rising reservoir can be welcome for water supply and dangerous for nearby communities at the same time.",
+        "Long-term drought persists in parts of the region, so the striking satellite comparison does not establish a lasting end to water scarcity."
+      ],
+      "sources": [
+        {
+          "label": "NASA Earth Observatory · Navajo Reservoir",
+          "url": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/"
+        }
+      ],
+      "image": null
+    }
+  ]
+}
