@@ -1,0 +1,109 @@
+{
+  "date": "2026-11-13",
+  "timezone": "America/New_York",
+  "intro": "Progress needs people who can keep it working. Today’s five stories follow smarter farm training, engineers steering AI, a meeting-room patch rollout, coastal forests regrowing, and a flood-damaged road rebuilt with parts already on hand.",
+  "hero": {
+    "path": "assets/2026-11-13/hero.webp",
+    "width": 1536,
+    "height": 768,
+    "alt": "Paper collage of farm fields and a book, a hand adjusting a bridge, a protected meeting-room screen, mangroves beneath a satellite, and a road crossing a stream.",
+    "credit": "AI-generated editorial illustration · The Daily Curiosity. Conceptual artwork, not documentary imagery or an engineering diagram.",
+    "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied."
+  },
+  "stories": [
+    {
+      "category": "Higher education · SUNY",
+      "headline": "Tomorrow’s farm workforce gets a laboratory upgrade",
+      "news_date": "2026-11-13",
+      "sentences": [
+        "SUNY has allocated $5 million to Alfred State, Cobleskill, Delhi and Morrisville for agricultural technology research and training.",
+        "The projects include connected livestock systems and agricultural data credentials at Alfred State, precision farming equipment at Cobleskill, and a robotics and automation laboratory at Delhi.",
+        "The investment connects emerging farm tools with the people who will operate and maintain them, extending agricultural education into data, automation and the food supply chain."
+      ],
+      "sources": [
+        {
+          "label": "SUNY · Agritech investment",
+          "url": "https://www.suny.edu/suny-news/press-releases/11-26/11-13-26/agritech-.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "AI · Engineering",
+      "headline": "An AI design assistant makes room for the engineer’s judgment",
+      "news_date": "2026-11-13",
+      "sentences": [
+        "MIT researchers have developed a system that identifies parts of an algorithm-generated structure where a human designer may want to intervene before the design is finished.",
+        "In demonstrations, the approach improved manufacturability or increased linear buckling load by 39 percent, while adding about 15 seconds to design time compared with the conventional approach.",
+        "Users can currently make selected regions thicker or thinner; the work suggests a way to bring practical construction knowledge into optimization, rather than discovering awkward features only after a long computation."
+      ],
+      "sources": [
+        {
+          "label": "MIT News · Collaborative structural design",
+          "url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113"
+        },
+        {
+          "label": "Research preprint · Methods and demonstrations",
+          "url": "https://arxiv.org/abs/2601.10859"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Cybersecurity · Enterprise IT",
+      "headline": "The meeting room needs a patch schedule, too",
+      "news_date": "2026-11-10",
+      "sentences": [
+        "Neat’s updated release notes confirm that Neat OS 26.6.3 includes a fix for a Brotli decompression flaw affecting its meeting-room devices, with the Stable rollout having begun November 7.",
+        "The vendor says CISA lists the underlying vulnerability as exploited, but it has no evidence of attacks against Neat devices or customers; exposure chiefly involves the built-in browser and captive portals.",
+        "With rollout scheduled through November 21 and Neat Pulse organizations receiving individual update dates, a release announcement does not mean every room is already patched.",
+        "The operational lesson is to check installed firmware and the organization’s rollout schedule, especially where automatic updates have been disabled."
+      ],
+      "sources": [
+        {
+          "label": "Neat · Release notes updated November 10",
+          "url": "https://support.neat.no/article/neat-devices-version-26-6-3-release-notes/"
+        },
+        {
+          "label": "Neat · Security advisory and rollout limits",
+          "url": "https://support.neat.no/article/security-advisory-november-2026-brotli-decoder-vulnerability-cve-2026-111497-affecting-neat-devices/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Science · Earth observation",
+      "headline": "A coastal forest comeback becomes visible from orbit",
+      "news_date": "2026-11-13",
+      "sentences": [
+        "NASA’s new Earth Observatory feature pairs 2010 and 2026 Landsat views of Myanmar’s coast, showing mangroves expanding into areas that included rice fields.",
+        "It places those images alongside research published earlier this year that found nearly 2,000 square kilometers of global mangrove gains after 2010, following nearly 3,000 square kilometers of losses from 1984 to 2010.",
+        "That partial recovery matters for coastal protection and wildlife habitat, but the global trend masks continuing regional losses and storm damage, so it is not evidence that the forests are secure everywhere."
+      ],
+      "sources": [
+        {
+          "label": "NASA Earth Observatory · Mangrove recovery",
+          "url": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "New York · Infrastructure",
+      "headline": "Stockpiled building blocks help reopen a flood-broken road",
+      "news_date": "2026-11-13",
+      "sentences": [
+        "State Route 9J in Stuyvesant has reopened less than four months after July flooding undermined the bridge over Mill Creek, restoring a Hudson Valley–Capital Region travel link.",
+        "New York transportation crews used interlocking prefabricated concrete blocks to rebuild support, drawing on supplies the agency had begun stockpiling for storm repairs.",
+        "The project shows how preparation before a disaster can shorten recovery afterward, although striping and roadside landscaping will continue in the coming weeks."
+      ],
+      "sources": [
+        {
+          "label": "New York Governor’s Office · Route 9J reopening",
+          "url": "https://www.governor.ny.gov/news/governor-hochul-announces-reopening-state-route-9j-columbia-county-following-catastrophic"
+        }
+      ],
+      "image": null
+    }
+  ]
+}
