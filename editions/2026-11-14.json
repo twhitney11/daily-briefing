@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-14",
+  "timezone": "America/New_York",
+  "intro": "Useful systems leave room for people. Today: students opening local archives, robots that accept a guiding hand, security built into small computers, a shuttle becoming a classroom, and an email outage with consequences beyond the inbox.",
+  "hero": {
+    "path": "assets/2026-11-14/hero.webp",
+    "width": 1536,
+    "height": 768,
+    "alt": "Conceptual paper collage of a student reading archives, a hand guiding a warehouse cart, a protected microchip, a shuttle in a museum, and an envelope beside a courthouse.",
+    "credit": "AI-generated editorial illustration · The Daily Curiosity. Conceptual artwork, not documentary imagery or actual product and building designs.",
+    "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied."
+  },
+  "stories": [
+    {
+      "category": "Higher education · SUNY / North Country",
+      "headline": "A paid history fellowship leaves something useful in the local museum",
+      "news_date": "2026-11-10",
+      "sentences": [
+        "SUNY Potsdam’s new account of its summer history fellowships shows five students contributing to museums and historians across Northern and Central New York, as part of a 60-student program spanning three SUNY campuses.",
+        "Projects included a digital inventory across four museums in Clay, research on Black labor in Clinton County, and exhibit interpretation in St. Lawrence and Lewis counties.",
+        "With students receiving $4,800 for 150 hours of work, the program connects paid academic experience to the often painstaking work that makes local collections accessible to the public."
+      ],
+      "sources": [
+        {
+          "label": "SUNY Potsdam · History fellowship results",
+          "url": "https://www.potsdam.edu/news/HistoryFellowshipsResearch"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "AI · Robotics",
+      "headline": "The useful warehouse robot may be the one you can steer by hand",
+      "news_date": "2026-11-13",
+      "sentences": [
+        "MIT’s new profile of Robust AI describes Carter, a cart-like robot already working in warehouses and factories alongside people.",
+        "Its vision system, force-sensitive handlebar and wheels that move in any direction let workers guide it physically, while autonomous transport can take over longer trips between stations.",
+        "The interesting design choice is to fit automation around existing workers and spaces, making human intervention part of normal operation rather than treating it as a failure."
+      ],
+      "sources": [
+        {
+          "label": "MIT News · Robots in the human workplace",
+          "url": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Cybersecurity · Embedded computing",
+      "headline": "A smaller computer gets security designed into its foundations",
+      "news_date": "2026-11-12",
+      "sentences": [
+        "MIT Lincoln Laboratory’s newly announced R&D 100 winners include Magnetite, an operating system for embedded computers such as those in satellites and flight systems.",
+        "It combines a formally verified seL4 microkernel with services written in Rust and isolated processes that receive only the access they need.",
+        "The aim is to contain a compromised component while critical functions continue, a consequential distinction when a computer controls physical equipment.",
+        "The laboratory says integration into space and flight platforms is underway; the mathematical verification applies to the microkernel, not a promise that every complete system is invulnerable."
+      ],
+      "sources": [
+        {
+          "label": "MIT Lincoln Laboratory · Award-winning technologies",
+          "url": "https://news.mit.edu/2026/lincoln-laboratory-technologies-receive-rd-100-awards-1112"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Space · Public science",
+      "headline": "Endeavour’s new mission starts with visitors looking up",
+      "news_date": "2026-11-13",
+      "sentences": [
+        "The California Science Center says its Samuel Oschin Air and Space Center opened to the public on November 13, with Endeavour displayed upright alongside authentic boosters and an external tank.",
+        "The 200,000-square-foot expansion pairs aerospace artifacts with 100 hands-on exhibits, including an opportunity to program a Mars rover.",
+        "The opening turns a retired flight vehicle into a setting for exploring how spaceflight works, connecting the scale of the hardware with experiments visitors can try themselves."
+      ],
+      "sources": [
+        {
+          "label": "California Science Center Foundation · Opening announcement",
+          "url": "https://www.prnewswire.com/news-releases/california-science-center-celebrates-grand-opening-of-samuel-oschin-air-and-space-center-302939448.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Enterprise IT · Public services",
+      "headline": "An email outage can outlast the return of the inbox",
+      "news_date": "2026-11-12",
+      "sentences": [
+        "Maine’s Judicial Branch says its email outage ran from about 1 p.m. November 12 until about 7 a.m. November 13, as part of the wider Microsoft Outlook disruption.",
+        "Its notice warns that emailed protection-order requests submitted after 12:30 p.m. on November 12 may not have arrived, and asks affected filers to consider resubmitting by email or on paper.",
+        "The notice illustrates why recovery is more than restoring a service: organizations also need a way to find and reconcile urgent work that went missing while it was unavailable."
+      ],
+      "sources": [
+        {
+          "label": "Maine Judicial Branch · Outage and missing-filing notice",
+          "url": "https://www.courts.maine.gov/news/article.html?id=13367403"
+        }
+      ],
+      "image": null
+    }
+  ]
+}
