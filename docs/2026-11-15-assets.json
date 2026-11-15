@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-15",
+  "assets": [
+    {
+      "path": "assets/2026-11-15/hero.webp",
+      "sha256": "0118cf9fcf173ee09113f46e161aa91585513602377185425f7f2dababcdb0c6",
+      "bytes": 312374,
+      "original": "/workspace/generated_images/exec-d41f5df9-ac39-4299-8b90-a11bdcc8b95a.png",
+      "original_sha256": "81294a43aaacab1214cfc76dcae6a9d2ddc20fd50146c153a4b82e807fdea87e",
+      "generator": "native image_gen",
+      "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied."
+    }
+  ]
+}

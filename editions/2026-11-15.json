@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-15",
+  "timezone": "America/New_York",
+  "intro": "Look past the spectacle. Today: opera with a familiar media twist, a test of how much AI reasoning reveals, a disruption to the malware supply chain, two ancient cosmic beacons, and a population forecast overtaken by people.",
+  "hero": {
+    "path": "assets/2026-11-15/hero.webp",
+    "width": 1536,
+    "height": 768,
+    "alt": "Conceptual paper collage of a theater telephone, a magnifying glass over an abstract computing cube, linked computers, two cosmic discs and a curve of human silhouettes.",
+    "credit": "AI-generated editorial illustration · The Daily Curiosity. Conceptual artwork, not documentary imagery or a scientific visualization.",
+    "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied."
+  },
+  "stories": [
+    {
+      "category": "Higher education · SUNY / North Country",
+      "headline": "Opera’s old misunderstandings get a television-age setting",
+      "news_date": "2026-11-09",
+      "sentences": [
+        "SUNY Potsdam’s Crane Opera Ensemble is scheduled to close its free fall double bill with a 3 p.m. Eastern performance today, November 15, at the Performing Arts Center.",
+        "The student production pairs Gilbert and Sullivan’s “Trial by Jury,” reimagined as a televised courtroom spectacle, with Menotti’s “The Telephone,” in which calls repeatedly interrupt a marriage proposal.",
+        "The staging gives student singers and instrumentalists a shared production while inviting the public to see how older comic works can speak to familiar habits of distraction and public drama."
+      ],
+      "sources": [
+        {
+          "label": "SUNY Potsdam · Production and performance schedule",
+          "url": "https://www.potsdam.edu/news/Fall2026Opera"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "AI · Safety research",
+      "headline": "A model’s written reasoning may become a less reliable window",
+      "news_date": "2026-11-10",
+      "sentences": [
+        "OpenAI’s new research examines how training changes two indicators of whether AI reasoning can be monitored: solving tasks without written reasoning and controlling the wording of that reasoning.",
+        "The company reports that stronger pretraining improves the first capability, while reinforcement learning and training on another model’s outputs can increase the second.",
+        "The finding matters because oversight systems use reasoning traces to help detect problematic behavior, but the authors emphasize that these are imperfect indicators: greater control did not always correspond to greater success at evading a monitor.",
+        "This is the developer’s research on its own models, not a demonstration that every deployed system can secretly defeat oversight."
+      ],
+      "sources": [
+        {
+          "label": "OpenAI Alignment Research · Training and monitorability",
+          "url": "https://alignment.openai.com/cot-monitorability-model-lifecycle/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Cybersecurity · Enterprise IT",
+      "headline": "A malware takedown starts at the websites that deliver it",
+      "news_date": "2026-11-12",
+      "sentences": [
+        "The U.S. Justice Department says an international operation removed Gootloader malware from more than 100 servers, including compromised WordPress sites, and seized U.S. domains used to deliver and control it.",
+        "Authorities describe a business in which infected computers give criminals access they can sell to ransomware operators; the department attributes at least 25,000 infections worldwide to Gootloader since 2018.",
+        "The action, part of Operation Endgame, illustrates why protecting ordinary websites matters beyond the sites themselves: compromised pages can become distribution infrastructure for attacks on other organizations.",
+        "Victim notification and remediation accompany the disruption, rather than treating the seizure of infrastructure as the end of recovery."
+      ],
+      "sources": [
+        {
+          "label": "U.S. Department of Justice · Gootloader disruption",
+          "url": "https://www.justice.gov/opa/pr/gootloader-malware-disrupted-international-cyber-operation"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Space · Early universe",
+      "headline": "Two ancient quasars make a growth puzzle harder to ignore",
+      "news_date": "2026-11-12",
+      "sentences": [
+        "Astronomers using Webb and Gemini North have identified a compact pair of quasars seen as they were about 900 million years after the Big Bang, Space.com reports.",
+        "The objects, powered by feeding supermassive black holes, are separated by about 18,100 light-years and offer a rare paired view of the early universe.",
+        "Their enormous masses raise a sharper version of an existing question: how did black holes grow so large so quickly?",
+        "The discovery challenges explanations of early growth; it does not establish that the objects violate physics."
+      ],
+      "sources": [
+        {
+          "label": "Space.com · Webb and Gemini quasar discovery",
+          "url": "https://www.space.com/astronomy/black-holes/astronomers-stunned-after-james-webb-space-telescope-discovers-the-earliest-pair-of-black-hole-powered-quasars"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "World · Population and forecasting",
+      "headline": "The population “doomsday” deadline passed—and left a useful lesson",
+      "news_date": "2026-11-13",
+      "sentences": [
+        "November 13 was the date a provocative 1960 paper calculated for world population to become effectively infinite, a prediction revisited this week by ABC Science.",
+        "The extrapolation followed a historical pattern of accelerating growth, but population subsequently grew much more slowly than the formula implied.",
+        "Demographers interviewed by ABC explain that fertility responds to changing social conditions, making a long-running trend a poor substitute for an unchanging law.",
+        "The missed deadline is a timely reminder to ask what a forecast assumes about people’s behavior before treating its precise date as certainty."
+      ],
+      "sources": [
+        {
+          "label": "ABC Science · Revisiting a 1960 population forecast",
+          "url": "https://www.abc.net.au/news/science/2026-11-13/world-has-avoided-a-predicted-population-doomsday/107320748"
+        }
+      ],
+      "image": null
+    }
+  ]
+}
