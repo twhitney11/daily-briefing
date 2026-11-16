@@ -1,0 +1,117 @@
+{
+  "date": "2026-11-16",
+  "timezone": "America/New_York",
+  "intro": "What changes when we look more closely? A law classroom practices repair, scientific AI gets a chemistry test, attackers read the patches, a cosmic survey opens its files, and a creek’s classification becomes a public question.",
+  "hero": {
+    "path": "assets/2026-11-16/hero.webp",
+    "width": 1536,
+    "height": 768,
+    "alt": "Conceptual paper collage of a circle of chairs, molecular models, a circuit shield, a star-filled survey and an urban creek with reeds.",
+    "credit": "AI-generated editorial illustration · The Daily Curiosity. Conceptual artwork, not documentary imagery or a scientific visualization.",
+    "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied."
+  },
+  "stories": [
+    {
+      "category": "Higher education · SUNY",
+      "headline": "Law students practice the work of repairing harm",
+      "news_date": "2026-11-13",
+      "sentences": [
+        "At the University at Buffalo, ten second- and third-year law students are studying restorative justice through a course that starts with discussion circles and invites them to help shape the agenda.",
+        "Professor Kim Diana Connolly pairs practice in listening and accountability with research projects and simulated interviews with real reporters, asking students to explain their ideas beyond the classroom.",
+        "The November 13 campus report offers a concrete look at legal education focused on what happens after harm: how people describe its impact, accept responsibility and consider repair.",
+        "The course illustrates an approach to professional training; the report does not establish that it produces better case outcomes."
+      ],
+      "sources": [
+        {
+          "label": "University at Buffalo · Restorative justice curriculum",
+          "url": "https://www.buffalo.edu/ubnow/stories/2026/11/Law-restorative-justice.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "AI · Scientific tools",
+      "headline": "A chemistry dataset puts specialized AI to a more specific test",
+      "news_date": "2026-11-16",
+      "sentences": [
+        "NVIDIA announced Nemotron for Science today, combining its Nemotron 3.5 Super VL model with scientific evaluations, a new chemistry dataset and instructions for adapting models to specialized research.",
+        "The company says LitmusBench v0.2 contains nearly 50,000 questions for both training and evaluating chemistry reasoning, drawing on molecular properties and experimental drug-discovery data.",
+        "The interesting shift is toward tools that researchers can adapt and assess for a particular job, such as reasoning about molecular behavior, rather than relying on a general chatbot’s fluency.",
+        "These are the supplier’s announced resources and use cases, not independent proof that an agent can reliably conduct scientific research."
+      ],
+      "sources": [
+        {
+          "label": "NVIDIA · Nemotron for Science announcement",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-nemotron-for-science-to-accelerate-discoveries-with-agents"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Cybersecurity · Enterprise IT",
+      "headline": "The patch itself is becoming an attacker’s research material",
+      "news_date": "2026-11-16",
+      "sentences": [
+        "Google’s threat researchers report finding an exposed server running an AI-assisted framework that compares web-application code before and after patches, identifies possible flaws, drafts exploits and executes them automatically.",
+        "The team says victim data on the server suggested an interest in French media, entertainment and education websites, making this an observed operation rather than just a laboratory demonstration.",
+        "The broader implication for enterprise IT is a shorter interval between a publicly explained fix and attempts to exploit organizations that have not installed it.",
+        "Google also describes a flood of nonworking exploit claims around other vulnerabilities, a reminder that automated output still needs verification."
+      ],
+      "sources": [
+        {
+          "label": "Google Threat Intelligence Group · Observed agentic threat activity",
+          "url": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Space · Open research data",
+      "headline": "A billion-object survey gives astronomers a new starting point",
+      "news_date": "2026-11-12",
+      "sentences": [
+        "ESA has released Euclid’s DR1-Foundation dataset, drawing on about 13 months of observations and including more than 900 million galaxies and around 15,000 strong gravitational-lensing candidates.",
+        "Those distorted views of distant objects can help researchers investigate the mass of foreground galaxies, including dark matter that cannot be seen directly.",
+        "The release covers about 14 percent of the area planned for the mission’s survey, giving astronomers a large shared collection to search for rare objects and begin constructing a three-dimensional cosmic map.",
+        "ESA expects the fuller release in mid-2027 to add weak-lensing observations and further information about how galaxies fit into the cosmic web."
+      ],
+      "sources": [
+        {
+          "label": "ESA · Euclid DR1-Foundation release",
+          "url": "https://www.esa.int/articles/about-us/directorates/science/euclid/euclid-lays-the-foundation-for-its-best-ever-3d-map-of-the-universe"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "New York · Water and public policy",
+      "headline": "A creek’s new category would raise the bar—but not to swimming",
+      "news_date": "2026-11-11",
+      "sentences": [
+        "New York’s proposed reclassification of Newtown Creek reaches a scheduled public hearing today, November 16, with written comments open through November 30.",
+        "The change from Class SD to Class I would add water-quality protections for boating and fish propagation, according to the state’s regulatory impact statement.",
+        "The same document makes a crucial distinction: Class I does not include standards protective of swimming, so a stronger designation would not amount to a declaration that the creek is safe for swimmers.",
+        "The proposal remains under review, illustrating how a technical category sets the environmental goals that permits and cleanup planning must consider."
+      ],
+      "sources": [
+        {
+          "label": "NYSDEC · Hearing schedule",
+          "url": "https://dec.ny.gov/get-involved/events/2026/11/public-hearing-1-6-nycrr-part-890-newtown-creek-reclassification"
+        },
+        {
+          "label": "NYSDEC · Proposed rule and comment deadline",
+          "url": "https://dec.ny.gov/regulatory/regulations/proposed-emergency-recently-adopted-regulations/water-revisions"
+        },
+        {
+          "label": "NYSDEC · Regulatory impact statement",
+          "url": "https://dec.ny.gov/sites/default/files/2026-09/part890_summaryris.pdf"
+        },
+        {
+          "label": "Bushwick Daily · November 11 local report",
+          "url": "https://bushwickdaily.com/news/new-york-proposes-reclassifying-newtown-creek-to-strengthen-its-water-quality-protections/"
+        }
+      ],
+      "image": null
+    }
+  ]
+}
