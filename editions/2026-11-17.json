@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-17",
+  "timezone": "America/New_York",
+  "intro": "Better systems start with a closer look: at heat on North Country streets, the layers inside an AI model, code arriving from a trusted supplier, an asteroid’s weak gravity, and the rules around cannabis retail.",
+  "hero": {
+    "path": "assets/2026-11-17/hero.webp",
+    "width": 1536,
+    "height": 768,
+    "alt": "Conceptual paper collage of a shaded town street, folded circuit layers, a shield over web windows, two asteroids inside a rectangular path, and a hemp leaf beside policy papers.",
+    "credit": "AI-generated editorial illustration · The Daily Curiosity. Conceptual artwork, not documentary imagery or a scientific diagram.",
+    "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied."
+  },
+  "stories": [
+    {
+      "category": "SUNY · North Country",
+      "headline": "Plattsburgh and Saranac Lake become laboratories for cooler streets",
+      "news_date": "2026-11-16",
+      "sentences": [
+        "New York’s environmental agency is funding University at Buffalo researchers with $360,000 to develop street-design guidance for extreme heat, with Plattsburgh and Saranac Lake among six pilot communities.",
+        "Researchers and students will combine heat sensors, drone mapping and simulations to study how shade, trees, building surfaces and street layouts affect people’s exposure.",
+        "The planned 2027 toolkit will include model local laws as well as design guidance, connecting campus research to the zoning and capital-project decisions that determine what actually gets built.",
+        "This is the start of a research partnership, not a report that the proposed cooling measures have already lowered temperatures in those communities."
+      ],
+      "sources": [
+        {
+          "label": "NYSDEC · SUNY partnership and six pilot communities",
+          "url": "https://dec.ny.gov/news/press-releases/2026/11/dec-partners-with-university-at-buffalo-to-study-extreme-heat-solutions-in-communities-across-the-state"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "AI · Efficient models",
+      "headline": "A smaller AI can start by folding the larger one",
+      "news_date": "2026-11-13",
+      "sentences": [
+        "A new preprint introduces Concertina, a method that builds a smaller language model from an existing model’s weights by making groups of layers share a repeatedly used block.",
+        "The authors report that their 2.27-billion-parameter model retained 84 percent of its Qwen3-4B teacher’s performance averaged across eight benchmarks after additional training on 22 billion tokens.",
+        "The idea could reduce the work needed to create compact models by reusing knowledge already encoded in a larger system instead of starting from scratch.",
+        "These are the authors’ benchmark results in a preprint, not independent validation or a guarantee that every real-world task will retain the same quality."
+      ],
+      "sources": [
+        {
+          "label": "arXiv · Folding Language Models into Themselves",
+          "url": "https://arxiv.org/abs/2611.18113"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Cybersecurity · Enterprise IT",
+      "headline": "A trusted website script becomes the delivery route for malware",
+      "news_date": "2026-11-17",
+      "sentences": [
+        "Optimizely says an attacker exploited a vulnerability in its experimentation platform to add malicious JavaScript to customer projects, and that it has fixed the flaw and removed the injected code.",
+        "In a November 16 investigation, Report URI researcher Scott Helme identified infected snippets associated with 178 organizations and described code designed to swap cryptocurrency addresses, collect payment details and deliver iOS exploit kits.",
+        "The scripts still arrived through the supplier’s legitimate infrastructure, showing why a familiar domain and a valid certificate cannot establish that third-party code remains safe.",
+        "The incident puts the permissions and ongoing monitoring of embedded website services under scrutiny; the organization count is a researcher’s finding, not a count of confirmed individual victims."
+      ],
+      "sources": [
+        {
+          "label": "Optimizely · Security incident update",
+          "url": "https://status.optimizely.com/incidents/ftw0fh9wx43z"
+        },
+        {
+          "label": "Report URI · Scott Helme’s investigation",
+          "url": "https://report-uri.ghost.io/worlds-largest-brands-infected-with-malware-via-optimizely/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Space · Planetary defense",
+      "headline": "Hera’s asteroid survey takes a rectangular route",
+      "news_date": "2026-11-11",
+      "sentences": [
+        "ESA confirms that Hera has arrived at the Didymos asteroid pair and begun its early survey, flying roughly 25–30 kilometers from the system.",
+        "Because the asteroids’ gravity is extremely weak, the spacecraft follows nearly straight legs with thruster-directed turns, tracing a rectangular path instead of a conventional circular orbit.",
+        "The geometry has a practical safety benefit: if a planned firing fails, Hera drifts away from the asteroids rather than toward a collision.",
+        "Its close investigation will help explain how NASA’s 2022 DART impact changed Dimorphos, turning a successful one-off deflection experiment into better evidence for future planetary defense."
+      ],
+      "sources": [
+        {
+          "label": "ESA · Hera’s arrival and rectangular flight path",
+          "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-spacecraft-in-rectangular-orbit-around-target-asteroids"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Cannabis policy · New England",
+      "headline": "Drive-through cannabis retail reaches the regulatory agenda",
+      "news_date": "2026-11-12",
+      "sentences": [
+        "Massachusetts’ Cannabis Control Commission put drive-throughs at marijuana establishments on the agenda for its November 17 public meeting, alongside discussion of regulating the hemp-derived cannabinoid market.",
+        "The notice places both subjects within the commission’s discussion-and-votes section, bringing retail access and the boundaries of product regulation into the same public forum.",
+        "The significance is the policy direction regulators are considering; the published agenda does not establish that drive-through rules or hemp recommendations have been adopted."
+      ],
+      "sources": [
+        {
+          "label": "Massachusetts Cannabis Control Commission · November 17 agenda",
+          "url": "https://masscannabiscontrol.com/events/cannabis-control-commission-public-meeting-november-17-2026-2/?occurrence=2026-11-17"
+        }
+      ],
+      "image": null
+    }
+  ]
+}
