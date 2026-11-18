@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-18",
+  "timezone": "America/New_York",
+  "intro": "The systems that sustain daily life deserve a closer look: paid student service, practical coding AI, the runtime beneath enterprise software, a satellite’s long memory, and the stream crossings under our roads.",
+  "hero": {
+    "path": "assets/2026-11-18/hero.webp",
+    "width": 1536,
+    "height": 768,
+    "alt": "Conceptual paper collage of students sharing supplies, modular code tiles, a shielded processor, an Earth-observing satellite and a stream flowing under a road.",
+    "credit": "AI-generated editorial illustration · The Daily Curiosity. Conceptual artwork, not documentary imagery or a spacecraft diagram.",
+    "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied."
+  },
+  "stories": [
+    {
+      "category": "SUNY · Higher education",
+      "headline": "Paid service makes community work part of the college pathway",
+      "news_date": "2026-11-16",
+      "sentences": [
+        "SUNY’s fall Empire State Service Corps summit highlights a program expanded to 1,000 paid community-service internships across 58 campuses, pairing student employment with work such as tutoring and hunger relief.",
+        "Participants commit at least 300 hours a year, and those completing that service can also receive an AmeriCorps education award of up to $1,400.",
+        "SUNY says applications have outnumbered available campus places four to one over the program’s three-year history, suggesting that demand for paid civic experience extends well beyond the current capacity."
+      ],
+      "sources": [
+        {
+          "label": "SUNY · Service Corps growth and fall summit",
+          "url": "https://www.suny.edu/suny-news/press-releases/11-26/11-16-26/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "AI · Software development",
+      "headline": "Microsoft’s coding models make specialization the selling point",
+      "news_date": "2026-11-17",
+      "sentences": [
+        "Microsoft has introduced MAI Code 2 and Code 2 Flash in GitHub Copilot, aiming the first at work such as debugging and changes across multiple files and the second at frequent, smaller coding tasks.",
+        "The company explicitly says the models are not yet tuned for fundamental scientific research or very long-running autonomous work, making the intended limits part of the launch story.",
+        "The practical idea is to match model capacity to the job, but Microsoft’s performance and cost comparisons come from specified evaluations and include promotional pricing; they do not establish identical savings or quality for every development team."
+      ],
+      "sources": [
+        {
+          "label": "Microsoft AI · Model launch, availability and evaluation caveats",
+          "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Cybersecurity · Enterprise IT",
+      "headline": "Java’s memory-safety promise meets the machinery underneath",
+      "news_date": "2026-11-18",
+      "sentences": [
+        "CERT-EU warns that a newly patched OpenJDK vulnerability, CVE-2026-114938, can cause crashes and, under particular conditions, allow an unauthenticated attacker to execute code.",
+        "The flaw affects an accelerated Base64-decoding path on certain x86-64 processors, illustrating how software designed to manage memory safely can still inherit vulnerabilities from its lower-level implementation.",
+        "The advisory’s conditions matter: ARM64 systems are not affected, and attacker-controlled data must reach the vulnerable decoder.",
+        "For enterprise operators, the inventory challenge extends to Java runtimes bundled inside products, whose fixes depend on their own vendors rather than a single update to the host system."
+      ],
+      "sources": [
+        {
+          "label": "CERT-EU · Java SE and OpenJDK security advisory",
+          "url": "https://cert.europa.eu/publications/security-advisories/2026-021/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Space · Earth science",
+      "headline": "Terra’s observations are ending; its record of Earth remains",
+      "news_date": "2026-11-17",
+      "sentences": [
+        "NASA says Terra will stop collecting science data on December 1 after nearly 27 years in orbit, far beyond its planned six-year mission.",
+        "The aging satellite has documented changes in land use, wildfire behavior, airborne dust and smoke, and ice cover, creating a record that serves researchers as well as public-safety and resource decisions.",
+        "Teams plan to use its remaining fuel to lower the orbit before switching off all spacecraft systems in January 2027, while keeping its existing data free and publicly available.",
+        "The transition separates two kinds of value: a durable historical archive and the continuing flow of fresh measurements that other missions must provide."
+      ],
+      "sources": [
+        {
+          "label": "NASA · Terra retirement announcement",
+          "url": "https://science.nasa.gov/blogs/science-news/2026/11/17/nasas-terra-mission-to-end/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "New York · Infrastructure",
+      "headline": "A better road crossing can also reconnect a stream",
+      "news_date": "2026-11-17",
+      "sentences": [
+        "New York’s transportation department has released draft eligibility guidelines for Environmental Bond Act funding of culvert replacement, rehabilitation and related stream restoration.",
+        "The proposal links road resilience to aquatic habitat: an undersized or poorly aligned crossing can worsen flooding while also obstructing fish movement and destabilizing a stream.",
+        "Public comments are due December 4 at 5 p.m.; this is a consultation on funding criteria, not an announcement that particular construction projects have been awarded money."
+      ],
+      "sources": [
+        {
+          "label": "NYSDOT · Draft culvert funding guidelines and comment deadline",
+          "url": "https://www.dot.ny.gov/news/press-releases/2026/2026-11-17"
+        }
+      ],
+      "image": null
+    }
+  ]
+}
