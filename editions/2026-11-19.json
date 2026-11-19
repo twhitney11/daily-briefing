@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-19",
+  "timezone": "America/New_York",
+  "intro": "Hidden potential comes into view: students helping students navigate college, AI revising its own machinery, security fixes beneath websites, a faint stellar rhythm, and flowers waiting for rain.",
+  "hero": {
+    "path": "assets/2026-11-19/hero.webp",
+    "width": 1536,
+    "height": 768,
+    "alt": "Conceptual paper collage linking students and an open doorway, a looping circuit, a protective shield, a radiant pulsar, and purple and white desert flowers.",
+    "credit": "AI-generated editorial illustration · The Daily Curiosity. Conceptual artwork, not documentary imagery or a scientific diagram.",
+    "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied."
+  },
+  "stories": [
+    {
+      "category": "SUNY · North Country",
+      "headline": "Plattsburgh launches a new role for students who know the way in",
+      "news_date": "2026-11-18",
+      "sentences": [
+        "SUNY launched its First-Generation Ambassador Program at Plattsburgh on November 18, creating paid roles for returning first-generation students to support peers and help expand campus resources.",
+        "Ambassadors will participate in orientations, open houses, first-year seminars and student government, receiving a stipend for the academic year.",
+        "The program makes navigating college part of a recognized student leadership role, giving newcomers guides who have firsthand experience of the same unfamiliar systems."
+      ],
+      "sources": [
+        {
+          "label": "SUNY · First-Generation Ambassador Program",
+          "url": "https://www.suny.edu/suny-news/press-releases/11-26/11-18-26-2/first-generation-ambassador-program.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "AI · Research",
+      "headline": "An AI experiment puts model improvement inside the model’s own reach",
+      "news_date": "2026-11-18",
+      "sentences": [
+        "A preprint revised November 18 reports that a 27-billion-parameter language model could inspect its own weights and graded answers, test changes, and rewrite some of those weights without gradient-based training.",
+        "The authors report a 6.6-percentage-point accuracy gain on unseen problems, with the improvement retained in the model rather than supplied by a longer prompt for every answer.",
+        "That suggests a possible route to persistent adaptation using inference infrastructure, but the study is preliminary and smaller models in the same family either made no edit or damaged their performance.",
+        "The result does not establish that open-ended self-improvement will remain reliable across other models or tasks."
+      ],
+      "sources": [
+        {
+          "label": "arXiv · Language Models Can Rewrite Their Own Weights",
+          "url": "https://arxiv.org/abs/2611.21885"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Cybersecurity · Web infrastructure",
+      "headline": "PHP’s new release day brings security fixes to existing branches",
+      "news_date": "2026-11-19",
+      "sentences": [
+        "PHP released security updates 8.5.13, 8.4.28, 8.3.37 and 8.2.36 on November 19, alongside the new 8.6.0 language release.",
+        "The security team’s advance notice said the fixes cover vulnerabilities across supported versions, while qualifying that the critical issues require non-default configurations or uncommon setups.",
+        "The distinction matters for website operators: security maintenance is available within existing release branches, so evaluating a major language upgrade need not postpone patching the runtime already serving their applications."
+      ],
+      "sources": [
+        {
+          "label": "PHP · November release announcements and security notice",
+          "url": "https://www.php.net/archive/2026.php"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Space · Computational discovery",
+      "headline": "Cryptography helps astronomers hear a faint stellar clock",
+      "news_date": "2026-11-19",
+      "sentences": [
+        "An international team announced a gamma-ray pulsar discovery using algorithms adapted from cryptography to search about 15 years of NASA Fermi observations.",
+        "The pulsar, PSR J1622-7204, spins 261 times per second, yet researchers recovered its rhythm from only about 16,000 detected photons.",
+        "The Max Planck Society reports that the new analysis needed the equivalent of roughly ten hours on one standard CPU core, while a previous search failed despite far greater computing effort.",
+        "The researchers plan to extend the method to harder searches, including binary systems, making better algorithms a way to uncover discoveries in data telescopes have already collected."
+      ],
+      "sources": [
+        {
+          "label": "Max Planck Society · Cryptographic algorithms reveal a pulsar",
+          "url": "https://www.mpg.de/26931617/finding-gamma-ray-pulsars-a-million-times-faster"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Earth · Biodiversity",
+      "headline": "The Atacama’s dormant seeds turn a wet winter into a satellite spectacle",
+      "news_date": "2026-11-19",
+      "sentences": [
+        "NASA’s November 19 Earth Observatory feature compares September and October Landsat views of northern Chile, where unusually wet winter weather awakened dormant seeds and spread purple, white and green across the Atacama Desert.",
+        "Researchers say the bloom may be the most extensive of the satellite era, a qualified assessment rather than a settled all-time record.",
+        "Field photographs, drones and satellite observations are being combined to map how the bloom’s biodiversity changes across the landscape and through time.",
+        "That turns a fleeting display into information conservation managers and land-use planners can use after the flowers disappear."
+      ],
+      "sources": [
+        {
+          "label": "NASA Earth Observatory · El Niño Rains Paint the Atacama",
+          "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/"
+        }
+      ],
+      "image": null
+    }
+  ]
+}

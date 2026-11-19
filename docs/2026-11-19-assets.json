@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-11-19",
+  "tool": "native image_gen.imagegen",
+  "original": "/workspace/generated_images/exec-4004d0da-90f1-48e9-ae75-cc21d05b0eb8.png",
+  "original_sha256": "e379169c0c1a096b8ba9c946fcb63ff12497ae1a4905fb2717f69cef0efd8982",
+  "asset": "assets/2026-11-19/hero.webp",
+  "sha256": "3e041ac444a35eaa41a8553204b7c6b5c5a1cc2b278bc1e4010ca9a34ce9ff1b",
+  "bytes": 241638,
+  "width": 1536,
+  "height": 768,
+  "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied."
+}
