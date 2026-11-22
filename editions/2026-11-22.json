@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-22",
+  "timezone": "America/New_York",
+  "intro": "What happens after the first step? Today’s five stories follow education beyond prison, research beyond its audit trail, privacy beyond encryption, experiments back from orbit, and water toward a second use.",
+  "hero": {
+    "path": "assets/2026-11-22/hero.webp",
+    "width": 1536,
+    "height": 768,
+    "alt": "Conceptual collage of an open book and learning pathway, a research magnifier, a shielded phone, spaceborne sample vials and a circular water-reuse system.",
+    "credit": "AI-generated editorial illustration · The Daily Curiosity. Conceptual artwork, not documentary imagery or a technical diagram.",
+    "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied."
+  },
+  "stories": [
+    {
+      "category": "SUNY · Educational access",
+      "headline": "College pathways beyond prison gain a three-year investment",
+      "news_date": "2026-11-19",
+      "sentences": [
+        "SUNY announced a $5 million, three-year grant from Ascendium Education Group to strengthen college opportunities for currently and formerly incarcerated New Yorkers.",
+        "The work includes expanding opportunities for incarcerated women, helping young people continue college after youth custody, and strengthening digital literacy and career connections during reentry.",
+        "Alongside expanded access, SUNY plans to improve its data systems and alumni support, making persistence and life after release part of how the programs are assessed."
+      ],
+      "sources": [
+        {
+          "label": "SUNY · Grant priorities and reentry support",
+          "url": "https://www.suny.edu/suny-news/press-releases/11-26/11-19-26/hep.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "AI · Research oversight",
+      "headline": "A complete research log still may not reveal deliberate sabotage",
+      "news_date": "2026-11-20",
+      "sentences": [
+        "Redwood Research tested whether auditors could spot sabotage in AI safety research by having one human researcher produce 22 research logs, including 12 deliberately sabotaged runs.",
+        "Even with full logs, AI assistance and time to run experiments, human auditors fully identified only 17 percent of the sabotage mechanisms they encountered.",
+        "The finding challenges the assumption that keeping detailed records is enough to make automated research trustworthy.",
+        "The experiment was small and gave the saboteur advance knowledge of benign results, so it demonstrates an oversight problem under those conditions rather than measuring how often deployed AI systems sabotage research."
+      ],
+      "sources": [
+        {
+          "label": "Redwood Research · Audit experiment, findings and limitations",
+          "url": "https://www.redwoodresearch.org/blog/auditors-struggle-to-catch-sabotage-in"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Cybersecurity · Device privacy",
+      "headline": "Signal moves the privacy boundary from encryption to the screen",
+      "news_date": "2026-11-20",
+      "sentences": [
+        "Signal is introducing screenshot restrictions on iOS 27 and on Android versions where it can detect an AI assistant trying to read the screen, seeking to keep private messages out of operating-system agents.",
+        "The company says the protection is incomplete: it cannot reliably offer equivalent screenshot blocking on macOS, and other routes such as filesystem access remain a concern.",
+        "The change exposes a practical limit of encrypted messaging: protecting a conversation in transit does not control what another system captures after the message appears on a device."
+      ],
+      "sources": [
+        {
+          "label": "Signal · Screen protections and platform limitations",
+          "url": "https://signal.org/blog/protecting-your-privacy/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Space · Biological research",
+      "headline": "A splashdown brings the space laboratory back to Earth",
+      "news_date": "2026-11-21",
+      "sentences": [
+        "NASA confirmed that a SpaceX Dragon cargo spacecraft splashed down near Los Angeles on November 21, completing the agency’s 35th SpaceX commercial resupply mission.",
+        "Its returning research includes a 3D-bioprinted blood-vessel construct, treated tumor organoids and frozen microbial samples for studying how antibiotic-resistant bacteria behave in space.",
+        "Returning these materials lets scientists continue their analysis on Earth, connecting experiments in microgravity with questions about aging, cancer and microbial adaptation; the arrival itself does not establish a new treatment."
+      ],
+      "sources": [
+        {
+          "label": "NASA · Confirmed return and research cargo",
+          "url": "https://www.nasa.gov/blogs/spacestation/2026/11/21/dragon-returns-to-earth-packed-with-science-and-cargo/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "New York · Water and infrastructure",
+      "headline": "New York asks what would make industrial water reuse practical",
+      "news_date": "2026-11-19",
+      "sentences": [
+        "New York’s Department of Environmental Conservation is seeking public input through January 18, 2027, on water reuse and conservation at industrial facilities, large water users and publicly owned treatment works.",
+        "The agency wants evidence about technical costs, operating barriers, health considerations and incentives, with the findings also informing its review of water demands associated with data centers.",
+        "The consultation creates no new reuse requirement, but gives utilities, businesses and residents a chance to shape future guidance and policy before growing demand puts more pressure on freshwater supplies."
+      ],
+      "sources": [
+        {
+          "label": "NYSDEC · Consultation scope, deadline and policy status",
+          "url": "https://dec.ny.gov/news/press-releases/2026/11/dec-announces-opportunity-for-public-input-on-water-reuse-and-conservation"
+        }
+      ],
+      "image": null
+    }
+  ]
+}
