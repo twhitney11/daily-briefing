@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-26",
+  "timezone": "America/New_York",
+  "intro": "A Thanksgiving collection about making room: for shared computing, a second perspective, safer websites, fresh food beyond Earth, and the return of a coastal fishery.",
+  "hero": {
+    "path": "assets/2026-11-26/hero.webp",
+    "width": 1536,
+    "height": 768,
+    "alt": "Conceptual paper collage of computing racks and open books, overlapping speech bubbles, a locked doorway, a moonlit greenhouse with fruit and herbs, and a striped bass in coastal water.",
+    "credit": "AI-generated editorial illustration · The Daily Curiosity. Conceptual artwork, not documentary imagery or a scientific diagram.",
+    "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied."
+  },
+  "stories": [
+    {
+      "category": "SUNY · Research infrastructure",
+      "headline": "A new SUNY supercomputer is built to be shared nationwide",
+      "news_date": "2026-11-25",
+      "sentences": [
+        "Stony Brook University has received hardware for Kitsune, a supercomputer funded by a $22.95 million National Science Foundation grant and developed in collaboration with the University at Buffalo.",
+        "The system is intended to give researchers across the country access through NSF’s ACCESS program, which supports research and teaching without charging participating researchers for computing resources.",
+        "Its large-memory CPU architecture will support complex simulations and data-intensive research, broadening access to work that can exceed an individual campus’s computing capacity.",
+        "The announcement marks hardware delivery; it does not establish that the new system is already open for nationwide use."
+      ],
+      "sources": [
+        {
+          "label": "Stony Brook University · Kitsune hardware arrives",
+          "url": "https://news.stonybrook.edu/newsroom/press-release/general/stony-brook-university-receives-hardware-for-nsf-funded-supercomputer-kitsune/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "AI · Human judgment",
+      "headline": "An AI hears your side of the story—and may mistake it for the whole story",
+      "news_date": "2026-11-25",
+      "sentences": [
+        "Google Research has released a framework and more than 20,000 generated examples for testing how AI assistants interpret social situations described by a simulated user.",
+        "Each scenario gives another character a hidden motive, allowing researchers to compare the assistant’s inference with an answer established when the simulation was built.",
+        "Across 12 language models, the researchers found that secondhand accounts and biased framing made motive inference harder, while longer conversations did not consistently improve accuracy.",
+        "The work offers a way to test everyday advice-giving, but success in constructed scenarios would not prove that a chatbot can reliably read real people’s intentions."
+      ],
+      "sources": [
+        {
+          "label": "Google Research · Verifiable social reasoning",
+          "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Cybersecurity · Enterprise IT",
+      "headline": "A finished website can still have an unfinished installer",
+      "news_date": "2026-11-25",
+      "sentences": [
+        "Drupal’s security team warns that some production sites in unusual or incomplete installation states remain vulnerable to takeover through the installer, despite an earlier fix, and says attackers are exploiting the issue.",
+        "The November 25 advisory calls for the relevant fixed release—10.6.23, 11.3.23 or 11.4.14—and running update.php so the corrective update hook reaches existing sites.",
+        "It also recommends securing the installer and checking for signs of compromise, particularly unexpected activity involving the primary administrator account.",
+        "The operational lesson is that replacing application files alone may leave an installation-state problem unresolved, and a normal-looking interface does not establish that a site is safe."
+      ],
+      "sources": [
+        {
+          "label": "Drupal Security Team · SA-CORE-2026-019",
+          "url": "https://www.drupal.org/sa-core-2026-019"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Space · Food science",
+      "headline": "The space menu’s next ingredient has to earn its growing room",
+      "news_date": "2026-11-25",
+      "sentences": [
+        "NASA’s latest crop-research update highlights strawberries, cucumbers and lemon basil as candidates for fresh food on future missions to the Moon and Mars.",
+        "In simulated space-growing conditions, a wild strawberry produced more reproductive growth than the leading Delizz variety, but its sprawling runners demanded too much room to displace NASA’s preferred candidate.",
+        "Cucumber tests and preliminary lemon-basil work add possibilities for menu variety, while a prototype growth chamber is still awaiting launch to the International Space Station.",
+        "The research shows why selecting space crops involves flavor, nutrition and the physical limits of the growing system—not yield alone."
+      ],
+      "sources": [
+        {
+          "label": "NASA Science · Crop candidates for future menus",
+          "url": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "New York · Water and wildlife",
+      "headline": "Cleaner striped bass could reopen waters closed for decades",
+      "news_date": "2026-11-24",
+      "sentences": [
+        "New York’s environmental and health agencies report that recent striped-bass testing supports reopening parts of the western Atlantic Ocean and western Long Island Sound that remain closed to commercial harvest because of PCB contamination.",
+        "DEC is preparing regulations for public consideration and anticipates an update in time for the May 2027 commercial season; the announcement itself does not reopen the waters.",
+        "Reopening would expand where commercial fishers can work without increasing the total allowable harvest, and existing advice for eating recreationally caught striped bass remains unchanged.",
+        "The finding connects years of environmental monitoring with a practical decision about access to a fishery restricted since 1986."
+      ],
+      "sources": [
+        {
+          "label": "NYSDEC and DOH · Striped-bass testing and proposed reopening",
+          "url": "https://dec.ny.gov/news/press-releases/2026/11/dec-and-doh-announce-a-significant-decline-in-pcb-levels-in-striped-bass-from-long-island-sound-and-new-yorks-western-atlantic-ocean"
+        }
+      ],
+      "image": null
+    }
+  ]
+}

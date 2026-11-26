@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-26",
+  "generator": "native image_gen.imagegen",
+  "original": "/workspace/generated_images/exec-c991a5dd-605b-4d00-b8ce-9686746e0cfd.png",
+  "original_sha256": "ec15e0de6539eaf44b1bc53be57cfe12be5cdd6ef3ad840f12eaf9769f549cdd",
+  "asset": "assets/2026-11-26/hero.webp",
+  "sha256": "7657684c8a55872dc7fa69ba434ed58c3d997ea056644b283f35bce5fe74da1f",
+  "bytes": 359768,
+  "width": 1536,
+  "height": 768
+}
