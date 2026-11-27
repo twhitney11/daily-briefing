@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-27",
+  "timezone": "America/New_York",
+  "intro": "Five stories about the work behind progress: campus resources, checked mathematics, faster defense, orbital deliveries and the road home.",
+  "hero": {
+    "path": "assets/2026-11-27/hero.webp",
+    "width": 1536,
+    "height": 768,
+    "alt": "Conceptual paper collage of an open campus doorway and clothing rack, quantum loops and a checkmark, a network shield, parcels orbiting Earth, and a winding autumn road.",
+    "credit": "AI-generated editorial illustration · The Daily Curiosity. Conceptual artwork, not documentary imagery or a scientific diagram.",
+    "rights": "Original conceptual artwork generated with native image_gen for this edition; no third-party image copied."
+  },
+  "stories": [
+    {
+      "category": "SUNY · Campus community",
+      "headline": "Student leadership turns belonging into a resource students can use",
+      "news_date": "2026-11-25",
+      "sentences": [
+        "SUNY has named Stony Brook graduate student Michelle Poulos and SUNY ESF undergraduate Brielle Thomas recipients of its third annual Harvey Milk Award for Student Leadership.",
+        "The award provides a one-time $1,500 non-tuition scholarship and recognizes work to improve campus culture for LGBT+ students.",
+        "Thomas helped establish ESF’s free Community Closet, gathering donations and campus space for resources including professional attire and winter coats, while Poulos combines campus programming with advocacy and social-work training.",
+        "Their projects show how student leadership can make inclusion practical by connecting people with everyday resources and a supportive community."
+      ],
+      "sources": [
+        {
+          "label": "SUNY · Harvey Milk Award recipients",
+          "url": "https://www.suny.edu/suny-news/press-releases/11-26/11-25-26/harveymilk.html"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "AI · Quantum computing",
+      "headline": "An AI’s better quantum algorithm comes with a mathematical check",
+      "news_date": "2026-11-23",
+      "sentences": [
+        "Google DeepMind and Google Quantum AI report that teams of Gemini 4 agents designed more efficient quantum circuits, with proposed improvements checked in the Lean theorem prover before entering a shared research notebook.",
+        "For one fusion-simulation calculation, the researchers report an 11.8-fold reduction in a computing-cost measure combining qubits and operations, alongside reduced memory requirements.",
+        "The result concerns algorithmic resource estimates rather than a demonstrated speedup on today’s quantum hardware, and the team says the scientific simulations still exceed what the first error-corrected quantum computers are likely to support.",
+        "The broader opportunity is a research workflow in which AI proposes ideas while formal verification checks their mathematical correctness, leaving people to choose problems and interpret the results."
+      ],
+      "sources": [
+        {
+          "label": "Google DeepMind · Agents and formal verification",
+          "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Cybersecurity · Enterprise IT",
+      "headline": "The clue to an AI-driven intrusion may be the pace between steps",
+      "news_date": "2026-11-25",
+      "sentences": [
+        "Microsoft Threat Intelligence says state-sponsored and financially motivated attackers are using ARTEX, an AI-powered penetration-testing framework, to accelerate reconnaissance, credential attacks and web exploitation.",
+        "The framework combines existing tools and techniques rather than inventing new attack methods, but it can adapt and progress through an intrusion quickly once an attacker defines the targets.",
+        "Microsoft identifies rapid bursts of varied requests and fast transitions between attack stages as more durable detection clues than easily changed IP addresses or user-agent strings.",
+        "For enterprise defenders, the report reinforces the value of correlating behavior across systems while reducing exposed services, protecting secrets and restricting routes between machines."
+      ],
+      "sources": [
+        {
+          "label": "Microsoft Threat Intelligence · ARTEX analysis",
+          "url": "https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "Space · Orbital logistics",
+      "headline": "Thanksgiving’s orbital delivery brings supplies—and a future trash run",
+      "news_date": "2026-11-26",
+      "sentences": [
+        "Roscosmos’s Progress 97 cargo spacecraft docked at the International Space Station’s Rassvet module at 7:08 a.m. Eastern on Thanksgiving Day, NASA confirmed.",
+        "The uncrewed spacecraft carried about three tons of food, fuel and supplies for the Expedition 75 crew after launching from Kazakhstan on November 24.",
+        "It is expected to stay for about eight months before leaving for a planned destructive re-entry that will dispose of station trash.",
+        "The arrival illustrates the two-way logistics behind a continuously occupied research station: incoming essentials keep the work going, while departing cargo vehicles clear accumulated waste."
+      ],
+      "sources": [
+        {
+          "label": "NASA · Confirmed Progress 97 docking",
+          "url": "https://www.nasa.gov/blogs/spacestation/2026/11/26/progress-cargo-craft-docks-to-station-on-thanksgiving-day/"
+        }
+      ],
+      "image": null
+    },
+    {
+      "category": "New York · Holiday travel",
+      "headline": "The holiday road pause extends through Monday morning",
+      "news_date": "2026-11-25",
+      "sentences": [
+        "New York has suspended lane closures for road and bridge construction on state highways from 6 a.m. November 25 until 6 a.m. Monday, November 30, to ease Thanksgiving travel.",
+        "Emergency repairs and some work behind permanent concrete barriers can continue, so the pause does not mean every route is free of work zones.",
+        "The state is also increasing enforcement against impaired and reckless driving through Sunday, November 29, and points travelers to 511NY for current road conditions.",
+        "Together, the measures address two different pressures on the return trip: construction bottlenecks and the behavior that can turn heavy traffic into a dangerous journey."
+      ],
+      "sources": [
+        {
+          "label": "New York State · Thanksgiving road operations",
+          "url": "https://www.governor.ny.gov/news/governor-hochul-announces-thanksgiving-enforcement-mobilization-initiatives-targeting-impaired"
+        }
+      ],
+      "image": null
+    }
+  ]
+}
